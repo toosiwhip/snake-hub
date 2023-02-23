@@ -2474,7 +2474,7 @@ end
 ---############### ACTUAL CODE ################---
 ---############################################---
 
-local scriptVersion = "1.6.8h3"
+local scriptVersion = "1.6.9"
 
 if not isfolder("AAMacros" .. scriptVersion) then
 	makefolder("AAMacros" .. scriptVersion)
@@ -2736,7 +2736,7 @@ local function writeMacroToFile(filename)
 						['money'] = getUpgradeCost(unitID, 0),
 						['cframe'] = arguments[2].X .. ", " .. arguments[2].Y .. ", " .. arguments[2].Z .. ", 1, 0, -0, -0, 1, -0, 0, 0, 1"
 					}
-					instructionIncrement = instructionIncrement + 1
+					instructionIncrement += 1
 				end
 
 				if tostring(remote) == "upgrade_unit_ingame" then
@@ -2799,7 +2799,7 @@ local function writeMacroToFile(filename)
 												['money'] = getUpgradeCost(unitID, arguments[1]["_stats"]["upgrade"].Value + 1),
 												['pos'] = hitboxPosition.X .. ", " .. hitboxPosition.Y .. ", " .. hitboxPosition.Z
 											}
-						instructionIncrement = instructionIncrement + 1
+						instructionIncrement += 1
 					end
 				end
 
@@ -2858,7 +2858,7 @@ local function writeMacroToFile(filename)
 											['money'] = 0,
 											['pos'] = hitboxPosition.X .. ", " .. hitboxPosition.Y .. ", " .. hitboxPosition.Z .. ", 1, 0, -0, -0, 1, -0, 0, 0, 1"
 										}
-					instructionIncrement = instructionIncrement + 1
+					instructionIncrement += 1
 				end
 			end
 
@@ -3918,14 +3918,22 @@ function MainModule()
 
 
     mainWindow = RayfieldLibrary:CreateWindow({
-        Name = "Snake Hub " .. scriptVersion,
+        Name = "Anime Adventures " .. scriptVersion .. " - " .. exec .. " (ALT: " .. tostring(getgenv().isAlt) .. ")",
         LoadingTitle = "Anime Adventures " .. scriptVersion,
         LoadingSubtitle = "Snake Hub"
     })
 
     local autoFarmTab = mainWindow:CreateTab("Auto Farm")
-	local autoMacroTab = mainWindow:CreateTab("Macro")
-    local webhookTab = mainWindow:CreateTab("Webhook")
+	local autoMacroTab = mainWindow:CreateTab("Auto Macro [BETA]")
+    local webhookTab = mainWindow:CreateTab("Webhooks")
+
+	local lowCpuToggle = autoFarmTab:CreateToggle({
+			Name = "Turn on Low CPU Mode",
+			CurrentValue = getgenv().lowCpuMode,
+			Callback = function(bool)
+				getgenv().lowCpuMode = bool
+				updatejson()
+			end})
 
     if game.PlaceId == 8304191830 then
 		updatejson()
@@ -3938,7 +3946,7 @@ function MainModule()
 					for i, alt in pairs(getgenv().altList) do
 						if tostring(val.Name) == tostring(alt) then
 							print(val.Name)
-							altsInGame = altsInGame + 1
+							altsInGame += 1
 							break
 						end
 					end
@@ -3951,7 +3959,7 @@ function MainModule()
 			local mainAccountFound = false
 			repeat
 				task.wait(1)
-				timer = timer + 1
+				timer += 1
 				mainAccountFound = false
 				for _, v in pairs(game.Players:GetPlayers()) do
 					if tostring(v) == getgenv().mainAccount then
@@ -4389,7 +4397,7 @@ function MainModule()
 										local iter = 1
 										for sus, bak in pairs(v["session"]["profile_data"]['collection']['equipped_units']) do
 											equippedUnits[tonumber(sus)] = {bak, v["session"]["profile_data"]['collection']['owned_units'][bak]['unit_id'], sus}
-											iter = iter + 1
+											iter += 1
 										end
 										break
 									end
@@ -4881,10 +4889,10 @@ function MainModule()
                 getgenv().AutoLoadTP = bool
                 updatejson()
                 if exec == "Synapse X" and getgenv().AutoLoadTP then
-                    syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/snake-hub/main/anime%20adventures1.txt'))()")
+                    syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Tesseract1234567890/animeadv/main/script.lua'))()")
 
                     if exec == "Synapse X" then
-                        syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/snake-hub/main/anime%20adventures1.txt'))()")
+                        syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Tesseract1234567890/animeadv/main/script.lua'))()")
                         RayfieldLib:Notify({
                             Title = "Queued to Auto-Attach on Teleport!",
                             Content =  "Success",
@@ -4901,7 +4909,7 @@ function MainModule()
                     end
 
                 elseif exec ~= "Synapse X" and getgenv().AutoLoadTP then
-                    queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/snake-hub/main/anime%20adventures1.txt'))()")
+                    queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Tesseract1234567890/animeadv/main/script.lua'))()")
                 end
 
         end})
@@ -5151,6 +5159,16 @@ function MainModule()
 			end,
 		})
 
+		unitOnePlacementCap = unitPlacementTab:CreateInput({
+			Name = "Placement Cap",
+			PlaceholderText = getgenv().unitPlacementSettings["U1"]["placementCap"],
+			RemoveTextAfterFocusLost = false,
+			Callback = function(placementCap)
+				getgenv().unitPlacementSettings["U1"]["placementCap"] = placementCap
+				updatejson()
+			end,
+		})
+
 		unitOneUpgradeCap = unitPlacementTab:CreateInput({
 			Name = "Upgrade Cap",
 			PlaceholderText = getgenv().unitPlacementSettings["U1"]["upgradeCap"],
@@ -5199,6 +5217,16 @@ function MainModule()
 			RemoveTextAfterFocusLost = false,
 			Callback = function(upgradeFromWave)
 				getgenv().unitPlacementSettings["U2"]["upgradeFromWave"] = upgradeFromWave
+				updatejson()
+			end,
+		})
+
+		unitTwoPlacementCap = unitPlacementTab:CreateInput({
+			Name = "Placement Cap",
+			PlaceholderText = getgenv().unitPlacementSettings["U2"]["placementCap"],
+			RemoveTextAfterFocusLost = false,
+			Callback = function(placementCap)
+				getgenv().unitPlacementSettings["U2"]["placementCap"] = placementCap
 				updatejson()
 			end,
 		})
@@ -5255,6 +5283,16 @@ function MainModule()
 			end,
 		})
 
+		unitThreePlacementCap = unitPlacementTab:CreateInput({
+			Name = "Placement Cap",
+			PlaceholderText = getgenv().unitPlacementSettings["U3"]["placementCap"],
+			RemoveTextAfterFocusLost = false,
+			Callback = function(placementCap)
+				getgenv().unitPlacementSettings["U3"]["placementCap"] = placementCap
+				updatejson()
+			end,
+		})
+
 		unitThreeUpgradeCap = unitPlacementTab:CreateInput({
 			Name = "Upgrade Cap",
 			PlaceholderText = getgenv().unitPlacementSettings["U3"]["upgradeCap"],
@@ -5303,6 +5341,16 @@ function MainModule()
 			RemoveTextAfterFocusLost = false,
 			Callback = function(upgradeFromWave)
 				getgenv().unitPlacementSettings["U4"]["upgradeFromWave"] = upgradeFromWave
+				updatejson()
+			end,
+		})
+
+		unitFourPlacementCap = unitPlacementTab:CreateInput({
+			Name = "Placement Cap",
+			PlaceholderText = getgenv().unitPlacementSettings["U4"]["placementCap"],
+			RemoveTextAfterFocusLost = false,
+			Callback = function(placementCap)
+				getgenv().unitPlacementSettings["U4"]["placementCap"] = placementCap
 				updatejson()
 			end,
 		})
@@ -5360,6 +5408,16 @@ function MainModule()
 				end,
 			})
 
+			unitFivePlacementCap = unitPlacementTab:CreateInput({
+				Name = "Placement Cap",
+				PlaceholderText = getgenv().unitPlacementSettings["U5"]["placementCap"],
+				RemoveTextAfterFocusLost = false,
+				Callback = function(placementCap)
+					getgenv().unitPlacementSettings["U5"]["placementCap"] = placementCap
+					updatejson()
+				end,
+			})
+
 			unitFiveUpgradeCap = unitPlacementTab:CreateInput({
 				Name = "Upgrade Cap",
 				PlaceholderText = getgenv().unitPlacementSettings["U5"]["upgradeCap"],
@@ -5410,6 +5468,16 @@ function MainModule()
 				RemoveTextAfterFocusLost = false,
 				Callback = function(upgradeFromWave)
 					getgenv().unitPlacementSettings["U6"]["upgradeFromWave"] = upgradeFromWave
+					updatejson()
+				end,
+			})
+
+			unitSixPlacementCap = unitPlacementTab:CreateInput({
+				Name = "Placement Cap",
+				PlaceholderText = getgenv().unitPlacementSettings["U6"]["placementCap"],
+				RemoveTextAfterFocusLost = false,
+				Callback = function(placementCap)
+					getgenv().unitPlacementSettings["U6"]["placementCap"] = placementCap
 					updatejson()
 				end,
 			})
@@ -5500,12 +5568,12 @@ function MainModule()
 									if unitInfo[2] == "metal_knight_evolved" or unitInfo[2] == "metal_knight_evolved:shiny" then
 										task.spawn(function()
 											game:GetService("ReplicatedStorage").endpoints.client_to_server.spawn_unit:InvokeServer(unitInfo[1], CFrame.new(unpack(getCoordArgs(decodedFile[tostring(instructionIncrement)]['cframe']))))
-											instructionIncrement = instructionIncrement + 1
+											instructionIncrement += 1
 											task.wait(2)
 										end)
 									else
 										game:GetService("ReplicatedStorage").endpoints.client_to_server.spawn_unit:InvokeServer(unitInfo[1], CFrame.new(unpack(getCoordArgs(decodedFile[tostring(instructionIncrement)]['cframe']))))
-										instructionIncrement = instructionIncrement + 1
+										instructionIncrement += 1
 									end
 								end
 							end
@@ -5522,7 +5590,7 @@ function MainModule()
 									game:GetService("ReplicatedStorage").endpoints.client_to_server.upgrade_unit_ingame:InvokeServer(unitPosition[1], unpack(getCoordArgs(decodedFile[tostring(instructionIncrement)]['pos'])))
 								end
 							end
-							instructionIncrement = instructionIncrement + 1
+							instructionIncrement += 1
 						end
 					
 						if decodedFile[tostring(instructionIncrement)]['type'] == 'sell_unit_ingame' then
@@ -5533,7 +5601,7 @@ function MainModule()
 									game:GetService("ReplicatedStorage").endpoints.client_to_server.sell_unit_ingame:InvokeServer(unitPosition[1], unpack(getCoordArgs(decodedFile[tostring(instructionIncrement)]['pos'])))
 								end
 							end
-							instructionIncrement = instructionIncrement + 1
+							instructionIncrement += 1
 						end
 					until decodedFile[tostring(instructionIncrement)] == nil	
 				end
@@ -5566,9 +5634,9 @@ function MainModule()
                 getgenv().AutoLoadTP = bool
                 updatejson()
                 if exec == "Synapse X" and getgenv().AutoLoadTP then
-                    syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/snake-hub/main/anime%20adventures1.txt'))()")
+                    syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Tesseract1234567890/animeadv/main/script.lua'))()")
                     if exec == "Synapse X" then
-                        syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/snake-hub/main/anime%20adventures1.txt'))()")
+                        syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Tesseract1234567890/animeadv/main/script.lua'))()")
                         RayfieldLib:Notify({
                             Title = "Queued to Auto-Attach on Teleport!",
                             Content =  "Success",
@@ -5577,7 +5645,7 @@ function MainModule()
                     end
 
                 elseif exec ~= "Synapse X" and getgenv().AutoLoadTP then
-                    queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/snake-hub/main/anime%20adventures1.txt'))()")
+                    queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Tesseract1234567890/animeadv/main/script.lua'))()")
                 end
             end})
 
@@ -6032,6 +6100,9 @@ function MainModule()
 
 --#endregion
 
+	local creditsTab = mainWindow:CreateTab("Credits")
+    local credits = creditsTab:CreateSection("Credits")
+    creditsTab:CreateLabel("bisu!#6810")
 end
 
 --------------------------------------------------
@@ -6095,6 +6166,7 @@ else
 				upgradePriority = 0,
 				placeFromWave = 0,
 				upgradeFromWave = 0,
+				placementCap = 999,
 				upgradeCap = 999
 			},
 			U2 = {
@@ -6102,6 +6174,7 @@ else
 				upgradePriority = 0,
 				placeFromWave = 0,
 				upgradeFromWave = 0,
+				placementCap = 999,
 				upgradeCap = 999
 			},
 			U3 = {
@@ -6109,6 +6182,7 @@ else
 				upgradePriority = 0,
 				placeFromWave = 0,
 				upgradeFromWave = 0,
+				placementCap = 999,
 				upgradeCap = 999
 			},
 			U4 = {
@@ -6116,6 +6190,7 @@ else
 				upgradePriority = 0,
 				placeFromWave = 0,
 				upgradeFromWave = 0,
+				placementCap = 999,
 				upgradeCap = 999
 			},
 			U5 = {
@@ -6123,6 +6198,7 @@ else
 				upgradePriority = 0,
 				placeFromWave = 0,
 				upgradeFromWave = 0,
+				placementCap = 999,
 				upgradeCap = 999
 			},
 			U6 = {
@@ -6130,6 +6206,7 @@ else
 				upgradePriority = 0,
 				placeFromWave = 0,
 				upgradeFromWave = 0,
+				placementCap = 999,
 				upgradeCap = 999
 			}
 		},
@@ -6788,22 +6865,46 @@ PlaceUnits = function(mapName, waveNum, x, y, z)
 						local raycastResult = workspace:Raycast(rayOrigin, rayDirection, raycastParams)
 
 						--place units
-						if raycastResult ~= nil then
-							if unitinfo_[1] == "metal_knight_evolved" then
-								task.spawn(function()
-									task.wait(j)
+
+						unitsOnMap = 0
+						for i, v in ipairs(game:GetService("Workspace")["_UNITS"]:GetChildren()) do
+							if v:FindFirstChild("_stats") and v:FindFirstChild("_hitbox") then
+								if tostring(v["_stats"].id.Value) == unitinfo_[1] then
+									unitsOnMap += 1
+								end
+							end
+						end
+						
+						if tonumber(getgenv().unitPlacementSettings[units[i][1]]["placementCap"]) > unitsOnMap then
+							if raycastResult ~= nil then
+								if unitinfo_[1] == "metal_knight_evolved" then
+									task.spawn(function()
+										task.wait(j)
+
+										local unitsOnMap = 0
+										for i, v in ipairs(game:GetService("Workspace")["_UNITS"]:GetChildren()) do
+											if v:FindFirstChild("_stats") and v:FindFirstChild("_hitbox") then
+												if tostring(v["_stats"].id.Value) == unitinfo_[1] then
+													unitsOnMap += 1
+												end
+											end
+										end
+
+										if tonumber(getgenv().unitPlacementSettings[units[i][1]]["placementCap"]) > unitsOnMap then
+											local args = {
+												[1] = unitinfo_[2],
+												[2] = CFrame.new(raycastResult.Position) * CFrame.Angles(0, -0, -0)
+											}
+											game:GetService("ReplicatedStorage").endpoints.client_to_server.spawn_unit:InvokeServer(unpack(args))
+										end
+									end)
+								else
 									local args = {
 										[1] = unitinfo_[2],
 										[2] = CFrame.new(raycastResult.Position) * CFrame.Angles(0, -0, -0)
 									}
 									game:GetService("ReplicatedStorage").endpoints.client_to_server.spawn_unit:InvokeServer(unpack(args))
-								end)
-							else
-								local args = {
-									[1] = unitinfo_[2],
-									[2] = CFrame.new(raycastResult.Position) * CFrame.Angles(0, -0, -0)
-								}
-								game:GetService("ReplicatedStorage").endpoints.client_to_server.spawn_unit:InvokeServer(unpack(args))
+								end
 							end
 						end
 					end
@@ -6815,7 +6916,7 @@ end
 coroutine.resume(coroutine.create(function()
     local wave = 0
 
-    while task.wait(1.5) do
+    while task.wait(0.5) do
         local _wave = game:GetService("Workspace"):WaitForChild("_wave_num").Value
         if wave ~= _wave then
             wave = game:GetService("Workspace"):WaitForChild("_wave_num").Value
@@ -6939,7 +7040,7 @@ function TPReturner()
    local num = 0;
    local extranum = 0
    for i, v in pairs(Site.data) do
-       extranum = extranum + 1
+       extranum += 1
        local Possible = true
        ID = tostring(v.id)
        if tonumber(v.maxPlayers) > tonumber(v.playing) then
@@ -7177,7 +7278,10 @@ function autoUpgradefunc()
 			print("localIDENT"..localIdentifier)
 			if localIdentifier ~= nil then
 				if tonumber(getgenv().unitPlacementSettings[localIdentifier]["upgradeFromWave"]) < game:GetService("Workspace"):WaitForChild("_wave_num").Value and tonumber(getgenv().unitPlacementSettings[localIdentifier]["upgradeCap"]) > unitEntry[4] and unitEntry[1] ~= "metal_knight_drone" and unitEntry[1] ~= "metal_knight_drone:shiny" then
-					game:GetService("ReplicatedStorage").endpoints.client_to_server.upgrade_unit_ingame:InvokeServer(unitEntry[3])
+					for i = 1, 5 do
+						game:GetService("ReplicatedStorage").endpoints.client_to_server.upgrade_unit_ingame:InvokeServer(unitEntry[3])
+						task.wait(0.001)
+					end
 				end
 			end
 		end
@@ -7191,24 +7295,22 @@ end
 --#region Auto Sell/Quit loop
 coroutine.resume(coroutine.create(function()
     while task.wait(1.5) do
-		if not getgenv().lockAutoFunctions then
-			local _wave = game:GetService("Workspace"):WaitForChild("_wave_num")
-			if getgenv().autoQuit and tonumber(getgenv().quitAtWave) <= _wave.Value then
-				Teleport()
-			end
+		local _wave = game:GetService("Workspace"):WaitForChild("_wave_num")
+		if getgenv().autoQuit and tonumber(getgenv().quitAtWave) <= _wave.Value then
+			Teleport()
+		end
 
-			if getgenv().autoSell and tonumber(getgenv().sellatwave) <= _wave.Value then
-				getgenv().disableAutoFarm = true
-				if game.PlaceId ~= 8304191830 then
-					repeat task.wait() until game:GetService("Workspace"):WaitForChild("_UNITS")
-					for i, v in ipairs(game:GetService("Workspace")["_UNITS"]:GetChildren()) do
-						repeat
-							task.wait()
-						until v:WaitForChild("_stats")
-						if tostring(v["_stats"].player.Value) == game.Players.LocalPlayer.Name then
-							repeat task.wait() until v:WaitForChild("_stats"):WaitForChild("upgrade")
-							game:GetService("ReplicatedStorage").endpoints.client_to_server.sell_unit_ingame:InvokeServer(v)
-						end
+		if getgenv().autoSell and tonumber(getgenv().sellatwave) <= _wave.Value then
+			getgenv().disableAutoFarm = true
+			if game.PlaceId ~= 8304191830 then
+				repeat task.wait() until game:GetService("Workspace"):WaitForChild("_UNITS")
+				for i, v in ipairs(game:GetService("Workspace")["_UNITS"]:GetChildren()) do
+					repeat
+						task.wait()
+					until v:WaitForChild("_stats")
+					if tostring(v["_stats"].player.Value) == game.Players.LocalPlayer.Name then
+						repeat task.wait() until v:WaitForChild("_stats"):WaitForChild("upgrade")
+						game:GetService("ReplicatedStorage").endpoints.client_to_server.sell_unit_ingame:InvokeServer(v)
 					end
 				end
 			end
@@ -7313,7 +7415,7 @@ local function startfarming()
 							for i, alt in pairs(getgenv().altList) do
 								if tostring(val.Name) == tostring(alt) then
 									print(val.Name)
-									altsInGame = altsInGame + 1
+									altsInGame += 1
 									break
 								end
 							end
@@ -7565,7 +7667,7 @@ local function startfarming()
 				local mainAccountFound = false
 				repeat
 					task.wait(1)
-					timer = timer + 1
+					timer += 1
 					mainAccountFound = false
 					for _, v in pairs(game.Players:GetPlayers()) do
 						if tostring(v) == getgenv().mainAccount then
@@ -7792,14 +7894,14 @@ if getgenv().AutoLoadTP == true then
     local exec = tostring(identifyexecutor())
 
     if exec == "Synapse X" then
-        syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/snake-hub/main/anime%20adventures1.txt'))()")
+        syn.queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Tesseract1234567890/animeadv/main/script.lua'))()")
         RayfieldLib:Notify({
             Title = "Queued to Auto-Attach on Teleport!",
             Content = "Success",
             Duration = 6.5
         })
     else
-        queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/snake-hub/main/anime%20adventures1.txt'))()")
+        queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/Tesseract1234567890/animeadv/main/script.lua'))()")
     end
 
 end
