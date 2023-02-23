@@ -2736,7 +2736,7 @@ local function writeMacroToFile(filename)
 						['money'] = getUpgradeCost(unitID, 0),
 						['cframe'] = arguments[2].X .. ", " .. arguments[2].Y .. ", " .. arguments[2].Z .. ", 1, 0, -0, -0, 1, -0, 0, 0, 1"
 					}
-					instructionIncrement += 1
+					instructionIncrement = instructionIncrement + 1
 				end
 
 				if tostring(remote) == "upgrade_unit_ingame" then
@@ -2799,7 +2799,7 @@ local function writeMacroToFile(filename)
 												['money'] = getUpgradeCost(unitID, arguments[1]["_stats"]["upgrade"].Value + 1),
 												['pos'] = hitboxPosition.X .. ", " .. hitboxPosition.Y .. ", " .. hitboxPosition.Z
 											}
-						instructionIncrement += 1
+						instructionIncrement = instructionIncrement + 1
 					end
 				end
 
@@ -2858,7 +2858,7 @@ local function writeMacroToFile(filename)
 											['money'] = 0,
 											['pos'] = hitboxPosition.X .. ", " .. hitboxPosition.Y .. ", " .. hitboxPosition.Z .. ", 1, 0, -0, -0, 1, -0, 0, 0, 1"
 										}
-					instructionIncrement += 1
+					instructionIncrement = instructionIncrement + 1
 				end
 			end
 
@@ -3938,7 +3938,7 @@ function MainModule()
 					for i, alt in pairs(getgenv().altList) do
 						if tostring(val.Name) == tostring(alt) then
 							print(val.Name)
-							altsInGame += 1
+							altsInGame = altsInGame + 1
 							break
 						end
 					end
@@ -3951,7 +3951,7 @@ function MainModule()
 			local mainAccountFound = false
 			repeat
 				task.wait(1)
-				timer += 1
+				timer = timer + 1
 				mainAccountFound = false
 				for _, v in pairs(game.Players:GetPlayers()) do
 					if tostring(v) == getgenv().mainAccount then
@@ -4389,7 +4389,7 @@ function MainModule()
 										local iter = 1
 										for sus, bak in pairs(v["session"]["profile_data"]['collection']['equipped_units']) do
 											equippedUnits[tonumber(sus)] = {bak, v["session"]["profile_data"]['collection']['owned_units'][bak]['unit_id'], sus}
-											iter += 1
+											iter = iter + 1
 										end
 										break
 									end
@@ -5500,12 +5500,12 @@ function MainModule()
 									if unitInfo[2] == "metal_knight_evolved" or unitInfo[2] == "metal_knight_evolved:shiny" then
 										task.spawn(function()
 											game:GetService("ReplicatedStorage").endpoints.client_to_server.spawn_unit:InvokeServer(unitInfo[1], CFrame.new(unpack(getCoordArgs(decodedFile[tostring(instructionIncrement)]['cframe']))))
-											instructionIncrement += 1
+											instructionIncrement = instructionIncrement + 1
 											task.wait(2)
 										end)
 									else
 										game:GetService("ReplicatedStorage").endpoints.client_to_server.spawn_unit:InvokeServer(unitInfo[1], CFrame.new(unpack(getCoordArgs(decodedFile[tostring(instructionIncrement)]['cframe']))))
-										instructionIncrement += 1
+										instructionIncrement = instructionIncrement + 1
 									end
 								end
 							end
@@ -5522,7 +5522,7 @@ function MainModule()
 									game:GetService("ReplicatedStorage").endpoints.client_to_server.upgrade_unit_ingame:InvokeServer(unitPosition[1], unpack(getCoordArgs(decodedFile[tostring(instructionIncrement)]['pos'])))
 								end
 							end
-							instructionIncrement += 1
+							instructionIncrement = instructionIncrement + 1
 						end
 					
 						if decodedFile[tostring(instructionIncrement)]['type'] == 'sell_unit_ingame' then
@@ -5533,7 +5533,7 @@ function MainModule()
 									game:GetService("ReplicatedStorage").endpoints.client_to_server.sell_unit_ingame:InvokeServer(unitPosition[1], unpack(getCoordArgs(decodedFile[tostring(instructionIncrement)]['pos'])))
 								end
 							end
-							instructionIncrement += 1
+							instructionIncrement = instructionIncrement + 1
 						end
 					until decodedFile[tostring(instructionIncrement)] == nil	
 				end
@@ -6939,7 +6939,7 @@ function TPReturner()
    local num = 0;
    local extranum = 0
    for i, v in pairs(Site.data) do
-       extranum += 1
+       extranum = extranum + 1
        local Possible = true
        ID = tostring(v.id)
        if tonumber(v.maxPlayers) > tonumber(v.playing) then
@@ -7313,7 +7313,7 @@ local function startfarming()
 							for i, alt in pairs(getgenv().altList) do
 								if tostring(val.Name) == tostring(alt) then
 									print(val.Name)
-									altsInGame += 1
+									altsInGame = altsInGame + 1
 									break
 								end
 							end
@@ -7565,7 +7565,7 @@ local function startfarming()
 				local mainAccountFound = false
 				repeat
 					task.wait(1)
-					timer += 1
+					timer = timer + 1
 					mainAccountFound = false
 					for _, v in pairs(game.Players:GetPlayers()) do
 						if tostring(v) == getgenv().mainAccount then
