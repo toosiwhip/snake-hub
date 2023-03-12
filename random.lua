@@ -1,1 +1,2017 @@
-([[This file was protected with MoonSec V3 by Federal#9999]]):gsub('.+', (function(a) _mdeWPQKKzoQE = a; end)); return(function(h,...)local d;local c;local l;local t;local a;local _;local e=24915;local n=0;local f={};while n<999 do n=n+1;while n<0x324 and e%0x2f1e<0x178f do n=n+1 e=(e+924)%14644 local r=n+e if(e%0x118a)>0x8c5 then e=(e*0x143)%0x6745 while n<0x3d3 and e%0x266c<0x1336 do n=n+1 e=(e-817)%14333 local d=n+e if(e%0x145c)<0xa2e then e=(e-0x278)%0x1bd7 local e=86714 if not f[e]then f[e]=0x1 a={};end elseif e%2~=0 then e=(e*0x28a)%0xbf55 local e=47228 if not f[e]then f[e]=0x1 l=string;end else e=(e*0x303)%0x309a n=n+1 local e=16628 if not f[e]then f[e]=0x1 t=getfenv and getfenv();end end end elseif e%2~=0 then e=(e*0x14a)%0xa8fc while n<0x29d and e%0x1750<0xba8 do n=n+1 e=(e+309)%38119 local r=n+e if(e%0x1546)<=0xaa3 then e=(e+0x2ab)%0x745a local e=36088 if not f[e]then f[e]=0x1 _="\4\8\116\111\110\117\109\98\101\114\116\76\99\95\112\89\83\95\0\6\115\116\114\105\110\103\4\99\104\97\114\109\86\83\87\117\100\87\121\0\6\115\116\114\105\110\103\3\115\117\98\65\77\81\113\77\110\102\111\0\6\115\116\114\105\110\103\4\98\121\116\101\84\89\108\81\122\117\121\75\0\5\116\97\98\108\101\6\99\111\110\99\97\116\69\67\105\108\99\98\110\105\0\5\116\97\98\108\101\6\105\110\115\101\114\116\111\114\118\70\70\117\98\95\5";end elseif e%2~=0 then e=(e*0x3f5)%0x5cfb local e=84175 if not f[e]then f[e]=0x1 d=function(f)local e=0x01 local function n(n)e=e+n return f:sub(e-n,e-0x01)end while true do local f=n(0x01)if(f=="\5")then break end local e=l.byte(n(0x01))local e=n(e)if f=="\2"then e=a.tLc_pYS_(e)elseif f=="\3"then e=e~="\0"elseif f=="\6"then t[e]=function(e,n)return h(8,nil,h,n,e)end elseif f=="\4"then e=t[e]elseif f=="\0"then e=t[e][n(l.byte(n(0x01)))];end local n=n(0x08)a[n]=e end end end else e=(e*0x106)%0xb620 n=n+1 local e=90750 if not f[e]then f[e]=0x1 end end end else e=(e+0x2a3)%0x3d4f n=n+1 while n<0x68 and e%0x466a<0x2335 do n=n+1 e=(e-550)%16076 local d=n+e if(e%0x2eac)>0x1756 then e=(e*0xab)%0xb41a local e=72706 if not f[e]then f[e]=0x1 end elseif e%2~=0 then e=(e+0x2a1)%0x47da local e=36625 if not f[e]then f[e]=0x1 t=(not t)and _ENV or t;end else e=(e*0x19)%0x11be n=n+1 local e=47064 if not f[e]then f[e]=0x1 c=tonumber;end end end end end e=(e+824)%32979 end d(_);local n={};for e=0x0,0xff do local f=a.mVSWudWy(e);n[e]=f;n[f]=e;end local function r(e)return n[e];end local l=(function(h,l)local _,f=0x01,0x10 local n={{},{},{}}local t=-0x01 local e=0x01 local d=h while true do n[0x03][a.AMQqMnfo(l,e,(function()e=_+e return e-0x01 end)())]=(function()t=t+0x01 return t end)()if t==(0x0f)then t=""f=0x000 break end end local t=#l while e<t+0x01 do n[0x02][f]=a.AMQqMnfo(l,e,(function()e=_+e return e-0x01 end)())f=f+0x01 if f%0x02==0x00 then f=0x00 a.orvFFub_(n[0x01],(r((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+d)%0x100)));d=h+d;end end return a.ECilcbni(n[0x01])end);d(l(130,"#b:y -oCJNIHKsXkJy"));d(l(33,"Jfx4>e&Oc-G:1*/)*)1>fL)R1*G4cOe)*:fG<G/f14Oee4>OxYfO*O:):4x/^/ecxGYO)f*%-c->&4e-xx5)/::)41f)&->GxQ_>/-G*c*e)&Gf&)caf1>>14fO*e*4Gf6)>11>--=&4eex4hO)OGxG*O4&xx/x/{cO&e-GfO>&&4-:e):*x:xG>O:&PxQ)/*.11G/O1&*/&1*f4/>*xGGcf&)4:x*)-*-1x-Ge)&G4ff*!&/x-G-4fU)xxmp//:*::e-O4O4O4G/G*xGOG>cf>)*):/f.*-1tGGe1&x>6f1^l141&O&M)/*L>(/*/:GG&O)ece1f1G&c-*>G/-fOf>/x>wc/T1xc*c4e)x/f>jc:ee_4>cx>/x/fO/)&):*-eO&>&xO3/*G11G>O>>&eOxf)xO/e)G*ce&&4&fO)/:-:>O4c-4xf&5f*G&/>/-cO->)44fc)**M:&Ox&xx-f//xO)&8G1O*&44:fcnc:/G&-cece-f/)))h&:>/-&&-e:x/GG/G1):f-6OxecfO)e//:Gc/e1>c*1"));local e=(-7855+(function()local t,n=0,1;(function(n,f,e)f(n(n,n,f),f(e,e,e),e(n,f,e))end)(function(f,d,e)if t>160 then return d end t=t+1 n=(n*750)%46455 if(n%1434)<717 then n=(n+441)%15675 return f else return f(f(f,d and f,e and f),e(f,e,e),e(f,f,e))end return e(e(e,e,d and d),d(f,e,e),e(d and e,d,f))end,function(d,f,e)if t>422 then return d end t=t+1 n=(n*881)%30823 if(n%1778)<889 then return f else return f(f(e,e,e)and e(f,e,d),f(d,f,e),d(d,f,d))end return d(f(f,f,f),e(d and e,e,e)and e(e,f,e),e(e,e,e))end,function(f,e,d)if t>440 then return e end t=t+1 n=(n*319)%29251 if(n%486)>=243 then n=(n+457)%19896 return f else return d(e(e,f,e),e(f,d,d),f(e,f,f))end return e(e(d,d,f),f(d,d,d),e(f,e,e))end)return n;end)())local de=(getfenv)or(function()return _ENV end);local o=a.GcCzDIUO or a.XkdUHzeW;local d=3;local m=1;local t=2;local _=4;local function ee(b,...)local r=l(e,"v.*7);S_i/{W0f}K)7W{/__);7)*MW}i0;KS})f){f;iS*)iY0f0fSW/iKS*)).}:}f.iS/0i.}i0/{q_f;{_i__S;7_*.}fS_)_.KK0f/*/+.f.WiiK>i)iK)WW7W0}K7}.*}0}{}iSS7)X_tSS)E._KSSK)W*i(;}*WK/0}./S7;.)}f0{{_fS0S{.iKK{fKW*iKS0/*/7S))_**}SfiWS/S_{}ff*{;i*;K/-_}S})_K7K0fSWS/S7)fKWW/i_;;**K/0Si%S{)i2;f7{._K)f.}_0WS{)/**KKf0D_K_}%W;*}_7K{{*0.X7)SK/;)K)f{{0i/SS/_i;_;)}+}(Sf*W}/WSf)/07/K_0;/7S.7KI..}{i/S0)..}KW*i*)B;fi0c/*_;;.0*{S_{;_7)S);.7fpf}{fAiS/.S*f_W7/RSf){*_y)){K}/fi*;;7*AK7K7i.WK;07{*Sf;i)**)iKi_W)f;x.)yfK7SW;;;)_kf}{0_.S}7fS/0iWSi7_*7K;0fij;**K.D}K0}{)i_S_)z.KKff/i.S77/.SK7*u./}W0{{/S{S*ff0//;_*)K_/_i;W7Sb;WK0K{WiiSM70f00Wf.{Wi*S_fW0*/7_-)fi.Si)f7;})}{0{_i_{;i7igfii/{)<.fK{*W.0K{}.SWi}S})}*)W0KDW_{S7e;f70.SKi0S{.iK;f7/f*wSf;Wfi}*7*f*0&/};{_/S_.5W.}fi{*0.W;7/707i.)K*f0{i/M*)._K)f.{};)77R0}/0SI{}.0{/K.iK)f.{}iWSi);.*7}f}0S/S_7;Mi0__)W*/Ki0}{0i7SrS07}Kf0}Si)i*sKff{a0fif{WW;fo/};0*/K_0;/.Si*7u0}///ir3V.W7{7{;K)/7SK)0*/US}70%/f_{;/)W..}}0W}W}f0_{*i_./*..iT/00/0/S_/)K**#)f}0}/.)e.}7/.}i))0i}f*.;;//07K{{){7)I*fKW0fW};0;/)_*;0.{YfKW07iWi.Sf7_.Wif{7i__0-y)/KfS{W7;77_uW}i0;};}_0./0i..7.W.*I7Si))*.K}fWWi);}fiK*}..}S07{Ff.WK{Kii))7_*;}fSSJ/W(0i/i;7})7_i0*0.S})0./}0W0)/S_;;)7).iK*0_{;iK)}70*0>;_x;)*i=;}*.7o.K.0{_K_.)K*K.7i;i.f)K{K_**7;Sf{W){*Sx7}JWf/{/_07_.IK}W0i{;i*;KK0_f7Sf)Wrif7{*){;0/0}K0/{_K;**K=0707*10}70*if_{;;7f.7ifSf);**KK*;*SK_f{W;*}D{}_0){._};WSW;;K70K{0i/SS)7{-){.{W//0_.)}*W;.;77;.7ff0_//_iK*fo{{i_S){Ki7_*f{WW/*SK)0_/S_;;*;&W}};/7f..}}0W}W}f0_{*i_./)..i#/SK;5*_Q)}.y.t{})0){))*}f0/{Si7SA7f.{f_.7W7/;SW)i*;Si;.*WpS0i/{_*5KK^0_{)i.Wii)iS;/7_*_i}_2)S*7YJ77.KK{}i0G{,7f}{00{*_K;0/0i;S.7}.*}ffW)S*.K}fWWi/S}fS7f{;(0_7fS)W0;0S..)K.0}.7K0f/W*;/*WPi*f<{}__W/0_S)S*f=fK7iS/ii.;0KWr{K/fS{;/.*/.S.fK;{Wi.;i7i._}Kf.{0iiS{)i}K}7{_i)S.iWi{S_)7j;K)0K{i_/__;**Scif}0__/__)K*0,{Ks{ WMifSif)WnifS{)_*)y.zKKW/{_K;**K<070*WTK};0k{}_i;S7f.7i0Si);**KKf0W/}KW7;*7ip{}_0)}*}0W}{di)S).K.WK*f)W_*.Kff{W_/)_.)}_))i}S0*/K_0;/7S.7KF:f{0i0S))..}70){.}K7fW)}7;qS}70B})fK0W;)_0;7))0iK.0W{fi_KW}0W7/sSfi0iiS_)0*;Ef}_0{{#_7)F7W&_K.f7{f_WS/7/.KK.}))/0/.KKK.0/*i}7{SKPKK)0_{)i.{/{&/..;*;*iKKff{W/X?*}0W{/__)/{/0_})f7_.S/K{_/}iK.7.i.*K000)_**KKfWWi/;_*)K)0_;*S0;{W_f;{7_S_;f7_:}}f{i{_if_L7}*i/;_W)f*{j_*f*}KK}*Wf_ii.;W7W.WW/S;)/.fK{f_Kig70KW*iKSS))*W4._WSS77.N}fB0>i}_00{;ifS_){*QK7{KWi/*_*;*K</0ii;)7.C}7W7)ES};0){)iiS*7_.;KK{fWS/n_B;R}}/{_/;**K&0*K7;..K);}7{._K)f.{}qWW*i;*7W_K{7}i.0)gi}W)/}/0i{._};WiW_}S07){}/7SS)7*N;.7K*KkiW707/K_0;)7j{:_0;/7S.7K:0f.}0_S;)..}KWfiW;/*/Wi0*WBK}70^/f0fW{/;_f;7.K*.K;0_).*7K/fSW7})f*0*/W)S;J7S/0_i;;7*nK}0*/.*07S*;W.{K_f)./p*fKWi/i70F}}WKW}/0_/0S};0K;U_Kx0WS{;R;fj. *K{0{W.ii)W)*77/i_);.*}QW}i0;})WK;})H.SK7f6KGK/f/{/Si_7))W{{)_*)K*0)f;i*)m_})WW//iT;S}}K.K{0S{Ki)K}ffWS/7_T/*/i_0;.0*/}_W;i7;.*}KK0}/iiSK)x.fK{y0})07W/W2{.;i;W7*.bf}077;./}f0{{_0K0SW_S)SS)i._j.}-)W*{C7}mWf}}f000{;..}W0i{;iS;K70./Kif_WMifS{{}i;S})7WffW_;;**K_);f7{.7K7/_S/)SSS7**;W/0K{}/SS_;..WBW}SW;/KSf;S7*.;}70/{0)7;;7}./Wif{W*iK_k)7*}K0f{W};{_W;7*78{}.iS/}ii;*K0._}i0f{K)fS})_*{K}/fWi/}S_};0{/f_{;_{miY)K*K.WK/f){ii{S fiW{/JSf){SK_i;;*}}*ff0/7*IK}00/{SiWST7f.{Q/}sW.i}SW)W*;T*fK0}{0_S;)7h>}}{0_{){.S_7W./K;f7{K/PS/;i7Kpt}mW{//_);.*}hW(;0;{7_K;K7/.SK7f?W0i{S_))*.K}ffWi/;__)K*0R/}_07{._f;{/_.)K.0}{0iiS;)**_K0f/WS/;_K)f*{(_*K*S._/W0.{i7*;i7{.K}_0K{/i..Wf/Wf/.S})WSWSf)_**k_//{./ii/}Kf/{_i)S.i.i7;f7i.fKif{WM)SS});7S0i{;i*77.7}W0i{;K*0*/fi;S*f)}70=/f_{;_7)f.K{/{_/;**K?0;f*_.S}W;K7}._K)f.*;}0f.W/*)<7f0W//S0_W;{;_}}i0){._}SS7i.;K*f.W;i/SS)7S7S;7K.{KK/.///si.}_0S/K_0;/i{_iSi).{0/7S))..}7{)}.{U)fiW*{*S;)}*;.SW_;/7i..}}0W.0}Sf;{{.}KKfSW7/ZWK{K/)_7;_*7/0{WiiS;)*.KK0//0*S*)..{K_f)*i}Kf)W0*_*)fKW0//f}0_{)_f;fX.f7W?iKS/i7;{7}.KK}0}WSiK*})K.K&_}M_K/._{._7Wq_K.0;/KiK**f*W{i{S_))S0S7;)fiK}};SK{*S{;**0x)/};07}.)K.0}K7K0f/W*SSS.)fWi/__%)f*{S});*}E7_W;i7;.*}K}_{/iSS7)Q77K{f_W)/.S})W*i*;K{WK/0_/;S77.*}ff0W.i)S*7}*SKif;W*{Ki.)/*_17}.Wf{)__SS7)I}}}0i{fi*;K70./w/f7W)ifSW)_*) .Ke0./i_{;*7* 0}/0S{7/);f)6._K)f.{}iWii;***l;f0WK/S_;;Q*frf}_0_{.i.;W7}.;K*}/{0i{SS)S*9KKf{Wf{}_.)}*W**};07/K_f;/7{)SKE0f{{{.S))*.}KWKSW;/*SK)}*/nS}7KPW__{;_7).7}}f){i/__.7K.0K/f{W7/ SfS{)7k)}.W}/W_i;07**.}K0/{_i7SS7f.{K_f)W*i}SW)i*_c*}+W0//iS;77AHf}00_{)i.i}7f.iK;f*W.i0S{)S*7*fffW{/___;.*}uWFif{{*_K;07/.SKify{f{_S_))*.,NfWW//;_*S.*0F/}S0_{X_f;{7_.{K.0}{Wi/S;)7.KK07/WS/7_n)}*{e_})0.W)_W;i7;.*mf00{/iSS7)&.fK{s_,_/.S})W7+&;};WK{}W_;S77.pK.0{{_i)S_;W.WK/f;W*iKSf)/*Wa7}(f9/{__;)7*M}}W0i{;/;;K70./Kif7W!ifS{;{*)U.f}WW/i_;;**K.K}/0S{7i7;f7{._K)}){}iWSi)/**KKf0W//K_7;T*fr0}_0S{.i);W7i.;K*f0{0i{SS)7*no.jfW_/)_.;W*Wo/};0Sf*_0;/7S*iK(0}{{i_i*)..KKWfiW;/*SK_0)7YS})0V{;_{;i7)*7}K0W{/i;Si7K.0K/KS0}/IS}){*ir)}iW}{fi{;;7)&KK.0/{Si7Sl;7.{Kif)W7i}S0)i*;zSfKWf//_S;77atf.{f.{)i*;})7.iK_f*{K}0S/)S*7p.ffW{/__W;.*}YW}{f.{*_K;0{0_WS_77./K7f_{S/j;K)f.0/__S)K*0D/;{*).7}i;0;9.)K.0}}}K_f;{Wi)S2K/*{g*/N0S//_0;S}.Y.}_0.{;_);}*f.W}{i))**.K{f_W)};f707/0LS}*WK/0_/;S77.C*f00{Wi)S.7}/*;/7}*S/._i)/*SB7*_**-}/_WK/Si_YW7)V}K=0{70./KSf7W^//S{)_*).77iWW/i_;;7*KA0}/0SW;ie;}7{._K)f.{}iWi*);**KKf}W//__7;270U{}_0){*_};W7i);U*0K{0i/S{)7*7Kf}0WK/)_.)}*fzi};0*WK//;/7S.7KR0fWOi__SSK.}K0fiW{/*SK)0*/GK}70X/f_0;_7;..}}f}{ii;S*)g.0K/fS}7/KSf){*_ri}.0;/W_iS*7*9K}00{{Si7SP7f0/Kif)W.i}fi)i*;T*}=W0//_SS;7{tf}{0_})i.;}7W*{F{f*{Ki0i;)S*7LRe700/__);.7)nW}/0;WW_KSES0.SK7f&W7i{Si))*.;}fWWi/;_7)K*0A/KiX.{Z_f;{;..)K.0}0WW{S;)*.KK0f/00/7/SS_*{Y_})SK/K_0;iS7.*K7KK{/iSS7}}.}KWf_0S};S})W*iS7}*WK/0iW{{77..}f0f{_i)S.)qiHKif_W*iKS0)/*S.;;oWf/f__i_7.^}}W}iWKi*S*70.0KSk_W3/K_})_*iL.}KWW/i_;;*)iu0}00S{;id;K7{*/K/f.W*iW/W);**KKK0Wf/S__;F7.X{.W0)W7ii;W7f.;K{0K{0i/SS)0*e!.f{W//)_7)}7f_i};0_/K{K;/7S.7.80K{{i0S))S.}*Kfi0_{{SK;**/7E}70g/f_{_.7).S}}0f{ii_S*;.*iK/f0W707Sf){*_*)K{W}{._i;W7*)7}0fW{/i7S_7f_SK_f)W.i}_))i*W *}.W0/W_SS;{LbfK.0_f_i.;}7W7i10f*WSi0_o)S;_&V}KWf/__0;.7S(W}i0;{*//;0)w.SK;fb{Ki{_/)}*.DSfW}W/;_*)K)0.*}S0W{pi;;{SW.)Z7fS{W/.S;/{.KK0f/WS/0_e;;*{&/})07/}if0i7;.W}KKK{/iSS7S+*SK{}AW)/{S}_K*i._}iWK{S_/;}77.:}f0{{/i)S{7}.fKif_W*{.iS)/7n27.7Wf/{___))}R}K;0i{Ki*/770*WKWf7WWif0*)_*)R.f}0)/i_K;*7.=0}W0SW;{);f);._*_f.{}iWiiS5** {f00)/S{_;j7K*)}_fO{.iS;W7i.;K*fU{0/)SS);*>KKf{}_{K_.;.*W.)};*S/Ki}_;7S.KKm}_{{i_S)S.*{KW})W;/}SKS)*/.i7_0Z{W_{W_7)..}}0W.7i;S}7K*{K/fiW7{4i.){*{,).SW}{__ii;7_eKK(0/W*i70.7f*{.6f)W;i}{j)i*iA*K.0.//i*;7SWjf}{0_0)/7;})_.ik.f*}7i0_WS**7(fffK*/__);.)s;K}if7{*W_;07/.SK7*_{f/SS_;**.Z&fW0i{__*;7*0)f}S0K{xiKS_7_*aK.U;{WiiS;S*7WK0};WS/K_riS*{./}W0.{W_W{f7;.*}Kf}W/iS_.)?_*K{f_W){7i_)W7_(;7_WK/0_/;S/*.EK/0{WSi)S77}*WKKf;WSiKW})/7*+7.Af;/{_W;)_{Q}+S0iW_i{;K)i./.7f7WTifi{;)*)Zff}0_/i{/;*)..}}/f7{7Wi;f7{._aSfK{}//SiS;**KKf00WWf_7;K*f7;}_0){./2S/7i*;K*}K{0i/SS)77iKf}SW_{)_.;>*W.i}f0*{7_0S/7S.KKgfK{}i__u).7WKWfiW;W*_))07;>S}K0Zf._{S/)W..KW0W0ii;S*7K*})ffS0./V__){*_J)K7.*/Wi_;;;*jK}00/Wi/*SU)f.{Kff)W.i}SWS)*;j}fK00//_i;7)M*_}{0W{)fi;})_.i*;}.{K/IS/_S*7.;ff00W*_);f*})*}i0;{*/K_.7/**K7f0{f07S_;S7fK}}iWi}{_*)K*0.W7{07{}_f{K7_.)K.}1KZii_))*_)K0f/WS/7i0)f7Sr_K70.{w_WSi7S.*K700K/iSSK)w*K?3f_0A/.fF)W*iN;x*f)/0i;;S7K.B)i0{0_ifS.){.W5)f;W_iK_0S**S,_}&.i/{i7;))7_x}Wf){;i/;K70./.S}{WY//S{;7*)7;f}0f/0_;;K*K)K}/0S{7/*_d7{*;K).){}iWSi;_*KKK}WW/f/_7;z*f.0K.0)W._}/}7i.;K*0K0)i/_*)77xKff0W_{)ff)}*K>i7)0*{W_0i/i/.7K)0ff/i_{*).)})}fiW//*0F)0_SaS.70S/f_K;_)<..7/0WWiiiS*)).0*}fSW_/A_KSc*_.1}.K;/W_i;;;*.}}0f;{SiKSw_S.{M/f}W./WSWSS*;5*fK0}W;_SS.7 *W}{0_{)/7SK7W*_K;K={Ki0S/)Si*1d}/W{{S_);7*}.WK*0;{__K{}7/**K7EwWKi{S0))S{K}KSWi{__7)K7iY/g707{Z_f_{);.)Kf0}W_ii//)*7.X.f/07/7/))f*{D_KS0S/}i/;i;;.*}K00WW{fS7)K.fA}f_W)/.ix;0*i.;}*fK/0_/;S77.f}ffS{_/)S.)r.W#ifKW*/)S0;/*SQK}(0KW7__SC7.*W}W0i{;{*_/70*;KSfKW(0.S{;/*0o.}WWWWi_;;**K.}7f0SW.iMSK7{._K)}7u*iW__);)*KKf0W/{iWi;-7fc{*00){._};W)K.;K}0KW0i/Si)77Jadf{W0/)0i)}7_uiK_fi/Kii;//i.7KE0f0{/VS))f.}?_fi-//*iK;}*/.*}700/f0.;_))*0}}f-{if/S*)W.0*/fWW7/;SfWP*_)K}.fMWR_iS.7*)S}00/{S{7_77f*SK_}VW.0_SW;{7/V*}0W0W__S;77T.KC70_W*i._07W.iK;})00i0_i)S).&yffW{/_i7;.7{GWK_0;{)_KS0{;.SKifDWSi{_7));.;.fWWf/;//)K;fV/.S.S{ki7;{)7.);S0}WW}.S;)i.K7.f/W{/7i*;.*{.7})K0/}_W;i;;.7}Kfi{//*S7_).fk0}iW)/}S}i7*it;}*f.W7_/S)77)i}f0{{_i)Sf7}*_Ki}7W*/.S0;/).27}SWff}__Su7.*U*/0iW.i*/S70./KSK7K0if_S)_7jk.._WW{{i*;*70I0Ki0S{7ihSK7K._M*f.WfiWSi);7):Sf00i/Si*;H*fC{}_0i{.i{;W)_.;K)0KW0/fSS)/*q)Kf{07/){.SW*W!}};hW/K/_;/SSSSK+f7{{{{S)S..}<f7{W;/}SKS/*/#S}7}NW._{S77).f}}KK{i/_SW7K*/K/N}W7/!Sf;07/c)}KW}WW_i;;7**.K/0/W;i7/i7f.{K_}S0*i}_W)i);n*fKW0//i.;770VfK{0_{Si.S}{_.iKWf*WKi0_;)S7;S*ff0S/_/.;.*}wWoif/{*iW;0);.S*_feWK{zS_;.*..}fWWi/;i);P*0._}S}/{L_f;{)/.}K.ff{W{iS;)*.Kl}}0WS{7_A/**{s_})0.{f_WS)7;**}K0}{//S0K)6*7K{*}W)/fS}_W7*w;}iWKfS_//077**t/0{W7i)077}.WKiK;W0iK_i)/7*l77)WfW{i/;)7fu}K_0i}0i*SK)*./K0f7Y)if_S)_7S.;f}0_/i{0;**KG0z/f}{7i0;f)S._*ff.0kf7Si;***.ff0W//Si;;f*f.i}_}*{._};W){*0K*f}{0{_SS)7* Kff0W_{Y_.;f*Wq{};f*{}_0;K7SSSK2f/{{W_S}).*)KWz.W;f}SK_07}-S}/0Pz7_{/)7)*7*00WW)i;//7K.0K/KSKK/A_/){77B).{W}{f/7;;7K,KT{0/{Si7_*)0.{Q;f)0Ki}SW)i7_?ifK0W///);77LRf}{}*{)if;}){.iK_f*WK{_S/)0*7c/ff0S/_{);K*}..}i}0{*f/;0S/S/K7f_{f/SS_);*.4})_Wi/0_*i)*09K}SK7W;_fS.7_.SK..W{W/{SK)**WK0.)WS/7_tSf*fC_Ky0.{{_Wi07;*)K000WSiS/W)V.fK{}/0./._0)WS>x;}*WK/0_f;S7K.3KW0{{/i)_.)K.WKKf;KSiK_i)/7i).}D0//{{};)7.q}PW.){;i};K)i./*Kf70*/;S{;)*).Kf}WW/ii_S**K.{}/}){7iB;f)0*)K)}c{}{/Si);**KKK*W/{*_7;K*fq0}_f){f_}S*7iS_K*fW{0W/i*)7*_Kf*7W_{K_.ScifUiK.0*W0_0;/7S77c/0fWSi__#).;*KW}{0i/*_0)0S.JS}70q{K/;;_)*..&}0W{ii;_))l.0!ifS}W/uSf){7/#{}.0}/W/i;;7*TK}0}X{SiKS+)f.{K/f)0.KKSW)K*;.*fK0i//{SS77G.)}{s/{)0};})f*iK;f}{K{/S/)S*7*LKiW{{7_);f*}7K}if_{/_KS/7/7.K7fM{f/0_{))*KK}KWWi/;_*S.)/!/K;07WW_f;{7_*SEU0}WWiii;)*.KK0f/W}/7_0)f7{t_}S0.{}/);i70.*)S00W;iS/7)f.fO.f_})/.i7)W7{.{}*0W/0W!;S77.Mtf00{_/GS.){.W7.f;0){.S0;S*S.*}sWf/{i/{i7..0}Wf_{;i*;K)};}KS}*Wp/0S{)_*)Q.}SWW{)_;S.*K?}}/fS{/i#S)7{S_K)ff{}/f_K);*}KK7}W//S_7_a7}%{K70){f_}WS7i7;K{0KWii/_*)7*;Kf}{f)/)_i)}iS8iK.0*W.f};/)*.7K_0f{{i_i))i.}#_fi0./*{7)07W.i}70f/fWf;_7)..cA}.{i/7S*i*.0K/fS0;{WSf;/*_)_}.W}/Wi{S07*.K}0(0{Si7Sj7f77K_}yW./}SW){*;.*)WW0{&_S{*7x./}{K_K_i.S;7W)_K;K){KW0SK)S*WYj}/W{fK_)S.)ioWKp0;f__KSI7/*iKWfbW/i{/}))*.K}KWf7/;_})K7ig/.K07W*/7;{)).)UK0}{Wii__;S.K?{f/f)/7_>)f70.K})f>/}//;i7;.*}K*W{//*S7)K.fK0f_0){.S};7*i;_}*0W/0{/S;77.i}f.7{_/KS.;L*.Ki}.W*{0S0)/*S*7}KWf{S__Su7.)*}Wf{WSi*S070).KSf7W:/K_})_7*J.K}WW/i_;S);Se0Ki0S0*in;f7{*/Rif.W}iWii);**KKf0W{/S_K;Y7f1{}/0)W._K;W)s.;b*0KWii/_i)}* e/f{f)/)_.)})W.7};0}/Kii;/S{.7%*}S{{/)S)S..}KWfi0_}SSK;{*/;K}70V/fi0{W7)*X}}}W{ii;S*;.S.K/}SW7/WSf){*_<)}}W}{__iS;7*..}0f/{Wi7Si7f_.K_}#W.{-_/)i7.U*).W0//_S_7)WjfKS0_WAi.W*7W7i!ff*WWi0_;)S7S3U}fW0/__0;.i*OWK)0;W)Wf;0);.S*{f<{fi{i_/6*.#{fW0)/;{W)K7}*;}Sf#{#0W;{7_.) 7f){W/SS;SK.KK0f/0i/0_:;0*{77})0./}_W_*7;.}}KfW{/iiS7;n**K{fKW)/{S};_*i7;K_WK{)_/_f77_7}fK{K{i)S/7}*/Ki**W*{K{_)/7*l7}iWfW.___)S_(}K_0iW.i*/W70.K.7f7W}ifS0)_*;>.}!WW/i/K;**KY0}/0S{7iQ;fS)._K)f.WSiWSi);**S_f00;/Si.;?*}A{K_fS{.i_;WSf.;KS0Kf0/iSS)0*%)Sf{f*/){.S{*W..};};/K/0;/)i.KK3f/{{{)S))..}.WK8W;/}SK;i*/7{}7f*WS_{S)7).}}}0W{i/_WS7K*{K/KSW7/jSf;0)}5)KxW}/K_i;;7**.!.0/WSi7iX7f.{K_f)07i}__)i7;z*}.W0{/_i;77/JfK{0_W=i._c)K.iF.f*00i0S/)S)7#/ff0S/_ib;.S*<WK{00{*i0;0;/.SK7f5WKf*S_;**.7KfWWi/;i)SJ*0.i}S}7{E_f;{)/*{K.f}{W0/S;)*.KK0}{WS/K_c;f*{L/})f.{{_WS.7;S/}Kfi{/WSi6)n*SK{n_W)f1S}_W7SV;}0WK{i_/_W77*J;/0{W.i)/S7}.KKi}_K%iK_i)/;fM7}wWfW{07;)7fc}K_0if}i*_.)Q./B7f7}*ifS{)_7SJKf}0//i{_;**K^0KWfK{7iK;fS0._K)f.{}{;Si;.**M}f0WW/Si7S_*f.)}_.S{.i{;WSi*)K*f/{0f*SS;}*>*f*fW_/}_._.*W*i};f)p._0S;7S7RKO0f{{{_S}).*{KW})W;0SSK;})7kSKo0O0._{;_7)*7d.0WWSi;i*7K.0K/}i08/L_0){_.M)}.W}{f/;;;)*sKE00/{Si7S:)}.{V7f)0.i}Sf)i7;S}fK0S//iS;770#fK0*/{)if;};i.iK;f*0K/0S/;**7:0ff}}/_iS;7*}.i}i};{*_K;0)W77K7f}{f/0S_))*..x}0Wi{)_*SK*06/}Sf;{._fS{7__7K.0}{Wii_K)**WK0}/WS/;_M;f/SH_}}0.K;_WS)7;)*K/00W7iS/f)AS7K{}/0;/._{)Wi{j;}*WKW0i;;S7K.sK/0{KWi)i.);.W?)f;W}iK_K)/7S.*}<0_/{0W;)7f>}Kf}.{;i};K_7./KSf7fo{7S{;7*)uff}K)/ii_{S*K./}/*7{7im;f)07fK)fK{}}iSi);**..}/W/{;_7{f*fD{}_0)W__}S_7i*)K*f.{0//_))7*{Kf}7W_{4_._}79Fi}K0*0S_0W77S77K_0fWSi_S}).7;KWKif*/*_W)07;2S.K0+{7/_;_)*..}K0W{/i;S_7K.0*7fSW7/9__){*_#)}.}i/W_i;;7iqK}00/{S{fSz7f.{Kif)W.i}SW_**;Y*fKWK//_S;7797_}{0_{)i7;}7W.iK;f7{K/iS/;)*7d.ff}{//_);0*}._}i}S{*iKSn7/*.K7,;{f/)S__)7kK}}SWi/__*/0*0.W}_07{0_f/;7_.)K.}}WSii_.)**WK0xfWS{;_))f7_?_.00./}_WS{i/.*Kf00}.iSS7)b.f;.f_0E/._0)W*{E;K*f)/0i);S__.aK/0{W//.S.){.W*Kf;W*iKi0;.*SUK}30//{Wr;))7.i}Wf;{;{k;K70./<i}SWe/WS{S;*)M.f}0f{__;S.*K*{}/0S{7igW07{*7K)}j{}ifSi;;7SKK}_W/}i_7;0*f7{K/0){0_}{)7i7dK*}.0;i/_*)77fKff{W_W)if)}7_9iK.0*f7_0SW)_.7Kf0f}*i_S)).7D#Kfi07/*iK)0*/CSK;.)/fi/;_S0..}}0WW{/)S*)K.0./fSW7/oSf)0*_.+}.0}/W_{;;)***}0f){S/7S,)/.{*_fKW.//SWi{*;)KfK0}W)_S;K7=*{}{0_{){._;7W*)K;f}{K0^S/;i*{5k}{W{W*_);.*}.f700;WC_K_07/.SK7}*l.i{_S))70K}fWWi{_i.)K70T/sS07{&_f;{70.)Kf0}WWiiS_)**Kz.f/0./70_)f7SU_.)0//}iS;iS;.*P)00WW/0S7)0.f7.f_W)/.i};f*i..}*0W/0W*;S);*.}ff_{_WSS.7}.We{*/W*/fS0_W*S^7}V0KfK__S77.),}W0i{;i*_W70*;KS}*WgiKS{;_7*U.}/WW}i_;;}*K.}K/0S{Ki5WK7{._K)K.0*iW_));*}KK7_W/WSi{;R7/N{K70){S_}SW)7.;Kf0K=_i/_*)77*;Kf{07/)_i)}*W,iw;f}/Kii;/)*.7*)0fW0{)S))}.}7}fiW;/*i.;**/.)}7!7/f_{;_)S._}}f{{i0iS*7K.08Wf}W7{ySfif*_ )}.W}{)_iS.7*.K}00W{S/7007f*;K_*7W./{SW_i_iA*}{W00i_S{/7Y7f}}0_{0i.0)7WSpK;3*W7i0_7)Si/O^.7W{/_iS;.*}YW}i0;{*_K;0//.SK7fD{}i{S_))");local n=0;a.Urbycqnc(function()a.GnmjoSwH()n=n+1 end)local function e(e,f)if f then return n end;n=e+n;end local f,n,s=h(0,h,e,r,a.TYlQzuyK);local function l()local n,f=a.TYlQzuyK(r,e(1,3),e(5,6)+2);e(2);return(f*256)+n;end;local u=true;local u=0 local function j()local e=n();local n=n();local d=1;local t=(f(n,1,20)*(2^32))+e;local e=f(n,21,31);local n=((-1)^f(n,32));if(e==0)then if(t==u)then return n*0;else e=1;d=0;end;elseif(e==2047)then return(t==0)and(n*(1/0))or(n*(0/0));end;return a.vWVIfiXj(n,e-1023)*(d+(t/(2^52)));end;local k=n;local function p(n)local f;if(not n)then n=k();if(n==0)then return'';end;end;f=a.AMQqMnfo(r,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+u),#f do e=e..a.AMQqMnfo(f,n,n)end return e;end;local k=#a.jVmjZavD(c('\49.\48'))~=1 local e=n;local function fe(...)return{...},a.KTgHjPRd('#',...)end local function te()local h={};local e={};local u={};local c={u,h,nil,e};local e=n()local r={}for t=1,e do local f=s();local n;if(f==3)then n=(s()~=#{});elseif(f==1)then local e=j();if k and a.yEqXhUvq(a.jVmjZavD(e),'.(\48+)$')then e=a.yYXr_TCP(e);end n=e;elseif(f==2)then n=p();end;r[t]=n;end;for e=1,n()do h[e-(#{1})]=te();end;c[3]=s();for a=1,n()do local e=s();if(f(e,1,1)==0)then local h=f(e,2,3);local o=f(e,4,6);local e={l(),l(),nil,nil};if(h==0)then e[d]=l();e[_]=l();elseif(h==#{1})then e[d]=n();elseif(h==b[2])then e[d]=n()-(2^16)elseif(h==b[3])then e[d]=n()-(2^16)e[_]=l();end;if(f(o,1,1)==1)then e[t]=r[e[t]]end if(f(o,2,2)==1)then e[d]=r[e[d]]end if(f(o,3,3)==1)then e[_]=r[e[_]]end u[a]=e;end end;return c;end;local function ee(f,n,e)local t=n;local t=e;return c(a.yEqXhUvq(a.yEqXhUvq(({a.Urbycqnc(f)})[2],n),e))end local function p(y,s,r)local function te(...)local l,k,j,ee,b,n,c,ne,g,z,u,f;local e=0;while-1<e do if 2>=e then if 0>=e then l=h(6,62,1,27,y);k=h(6,86,2,86,y);else if e>=-1 then for f=13,81 do if e~=1 then n=-41;c=-1;break;end;j=h(6,49,3,37,y);b=fe ee=0;break;end;else j=h(6,49,3,37,y);b=fe ee=0;end end else if e>=5 then if e>2 then repeat if 5<e then e=-2;break;end;f=h(7);until true;else f=h(7);end else if 4==e then z=a.KTgHjPRd('#',...)-1;u={};else ne={};g={...};end end end e=e+1;end;for e=0,z do if(e>=j)then ne[e-j]=g[e+1];else f[e]=g[e+1];end;end;local e=z-j+1 local e;local h;local function j(...)while true do end end while true do if n<-40 then n=n+42 end e=l[n];h=e[m];if h<57 then if 28>h then if 13<h then if 21>h then if h<17 then if 15<=h then if h>11 then for a=28,92 do if h~=15 then local r,s,a,b,c,h,u;for h=0,6 do if h<=2 then if h>=1 then if h~=1 then f(e[t],e[d]);n=n+1;e=l[n];else f(e[t],e[d]);n=n+1;e=l[n];end else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else if h<=4 then if h>0 then repeat if 3<h then h=0;while h>-1 do if h<=2 then if h>=1 then if h>=-1 then repeat if 1~=h then a=d;break;end;s=t;until true;else a=d;end else r=e;end else if 4>=h then if h>-1 then for e=10,74 do if h~=3 then c=r[s];break;end;b=r[a];break;end;else c=r[s];end else if 1<h then for e=27,75 do if 5~=h then h=-2;break;end;f(c,b);break;end;else h=-2;end end end h=h+1 end n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else h=0;while h>-1 do if h<=2 then if h>=1 then if h>=-1 then repeat if 1~=h then a=d;break;end;s=t;until true;else a=d;end else r=e;end else if 4>=h then if h>-1 then for e=10,74 do if h~=3 then c=r[s];break;end;b=r[a];break;end;else c=r[s];end else if 1<h then for e=27,75 do if 5~=h then h=-2;break;end;f(c,b);break;end;else h=-2;end end end h=h+1 end n=n+1;e=l[n];end else if 5==h then u=e[t]f[u]=f[u](o(f,u+1,e[d]))n=n+1;e=l[n];else f[e[t]][e[d]]=f[e[_]];end end end end break;end;local a;for h=0,6 do if h<3 then if h<=0 then f(e[t],e[d]);n=n+1;e=l[n];else if h~=-1 then repeat if h>1 then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];break;end;a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];until true;else a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];end end else if 4>=h then if h>1 then for o=22,58 do if h<4 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else if h<6 then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];else f(e[t],e[d]);end end end end break;end;else local h;for a=0,6 do if a<3 then if a<=0 then f(e[t],e[d]);n=n+1;e=l[n];else if a~=-1 then repeat if a>1 then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];break;end;h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];until true;else h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];end end else if 4>=a then if a>1 then for h=22,58 do if a<4 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else if a<6 then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];else f(e[t],e[d]);end end end end end else local e=e[t]f[e]=f[e](o(f,e+1,c))end else if h<19 then if 17<h then f[e[t]]=p(k[e[d]],nil,r);else local n=e[t]local t,e=b(f[n](o(f,n+1,e[d])))c=e+n-1 local e=0;for n=n,c do e=e+1;f[n]=t[e];end;end else if 20~=h then f[e[t]]=s[e[d]];else local j,p,b,c,u,k,a,h,r;for h=0,4 do if 1<h then if 2>=h then h=0;while h>-1 do if h>2 then if 4<h then if 5~=h then h=-2;else f[k]=a;end else if h>=-1 then repeat if 3~=h then a=f[u];for e=1+u,c[b]do a=a..f[e];end;break;end;k=c[j];until true;else a=f[u];for e=1+u,c[b]do a=a..f[e];end;end end else if 0<h then if h<2 then c=e;else u=c[p];end else j=t;p=d;b=_;end end h=h+1 end n=n+1;e=l[n];else if-1<h then repeat if 4~=h then r=e[t]f[r]=f[r](o(f,r+1,e[d]))n=n+1;e=l[n];break;end;if(f[e[t]]==f[e[_]])then n=n+1;else n=e[d];end;until true;else r=e[t]f[r]=f[r](o(f,r+1,e[d]))n=n+1;e=l[n];end end else if-2~=h then for r=16,71 do if 0~=h then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;f[e[t]]=s[e[d]];n=n+1;e=l[n];break;end;else f[e[t]]=s[e[d]];n=n+1;e=l[n];end end end end end end else if 23<h then if h>=26 then if 24<h then for o=29,53 do if 27~=h then local o;for h=0,6 do if 3>h then if h<1 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];else if h>-3 then repeat if 1<h then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end else if h<5 then if h~=2 then repeat if 4>h then f(e[t],e[d]);n=n+1;e=l[n];break;end;o=e[t]f[o](f[o+1])n=n+1;e=l[n];until true;else o=e[t]f[o](f[o+1])n=n+1;e=l[n];end else if h~=2 then repeat if h~=6 then f[e[t]]=s[e[d]];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=e[_];until true;else f[e[t]]=s[e[d]];n=n+1;e=l[n];end end end end break;end;r[e[d]]=f[e[t]];break;end;else local o;for h=0,6 do if 3>h then if h<1 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];else if h>-3 then repeat if 1<h then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end else if h<5 then if h~=2 then repeat if 4>h then f(e[t],e[d]);n=n+1;e=l[n];break;end;o=e[t]f[o](f[o+1])n=n+1;e=l[n];until true;else o=e[t]f[o](f[o+1])n=n+1;e=l[n];end else if h~=2 then repeat if h~=6 then f[e[t]]=s[e[d]];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=e[_];until true;else f[e[t]]=s[e[d]];n=n+1;e=l[n];end end end end end else if 22~=h then for n=42,70 do if h<25 then f[e[t]][e[d]]=e[_];break;end;local d=e[d];local n=f[d]for e=d+1,e[_]do n=n..f[e];end;f[e[t]]=n;break;end;else local d=e[d];local n=f[d]for e=d+1,e[_]do n=n..f[e];end;f[e[t]]=n;end end else if h>=22 then if h~=20 then for o=23,95 do if 23~=h then local o,a;for h=0,6 do if 2<h then if 4<h then if 2~=h then repeat if 6~=h then f[e[t]]=s[e[d]];n=n+1;e=l[n];break;end;f(e[t],e[d]);until true;else f(e[t],e[d]);end else if 4==h then f(e[t],e[d]);n=n+1;e=l[n];else o=e[t];a=f[e[d]];f[o+1]=a;f[o]=a[e[_]];n=n+1;e=l[n];end end else if h>0 then if 1~=h then f[e[t]]=r[e[d]];n=n+1;e=l[n];else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else f[e[t]]=s[e[d]];n=n+1;e=l[n];end end end break;end;if(f[e[t]]~=e[_])then n=n+1;else n=e[d];end;break;end;else if(f[e[t]]~=e[_])then n=n+1;else n=e[d];end;end else local a;for h=0,6 do if 3<=h then if 4<h then if 1<=h then for r=39,73 do if h~=5 then f[e[t]][e[d]]=f[e[_]];break;end;a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];break;end;else a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];end else if h~=2 then repeat if 4~=h then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else f(e[t],e[d]);n=n+1;e=l[n];end end else if 1<=h then if h~=2 then f[e[t]]=r[e[d]];n=n+1;e=l[n];else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end end end end end end else if 6<h then if h>=10 then if h>=12 then if h>8 then for a=30,92 do if 12~=h then if(f[e[t]]==e[_])then n=n+1;else n=e[d];end;break;end;local h,s,k,u,a;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];h=e[t];s=f[e[d]];f[h+1]=s;f[h]=s[e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]k,u=b(f[h](o(f,h+1,e[d])))c=u+h-1 a=0;for e=h,c do a=a+1;f[e]=k[a];end;n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,c))n=n+1;e=l[n];f[e[t]]();break;end;else local h,s,k,u,a;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];h=e[t];s=f[e[d]];f[h+1]=s;f[h]=s[e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]k,u=b(f[h](o(f,h+1,e[d])))c=u+h-1 a=0;for e=h,c do a=a+1;f[e]=k[a];end;n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,c))n=n+1;e=l[n];f[e[t]]();end else if 6~=h then repeat if 10~=h then f(e[t],e[d]);break;end;for h=0,6 do if h<=2 then if h<=0 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];else if h~=-1 then repeat if h<2 then f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f[e[t]]=r[e[d]];n=n+1;e=l[n];end end else if h>4 then if 3<h then repeat if 5~=h then f[e[t]]=f[e[d]][e[_]];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];end else if 2~=h then repeat if h<4 then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end end end until true;else f(e[t],e[d]);end end else if 8>h then local n=e[t]local t,e=b(f[n](o(f,n+1,e[d])))c=e+n-1 local e=0;for n=n,c do e=e+1;f[n]=t[e];end;else if 9>h then if(f[e[t]]==e[_])then n=n+1;else n=e[d];end;else local e=e[t]f[e]=f[e](f[e+1])end end end else if h>2 then if h<=4 then if 2<h then repeat if h~=3 then local c,o,a,h,s,r;for b=0,2 do if b<1 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];else if-2<=b then repeat if 1~=b then c=e[t];o={};for e=1,#u do a=u[e];for e=0,#a do h=a[e];s=h[1];r=h[2];if s==f and r>=c then o[r]=s[r];h[1]=o;end;end;end;break;end;f[e[t]][e[d]]=e[_];n=n+1;e=l[n];until true;else c=e[t];o={};for e=1,#u do a=u[e];for e=0,#a do h=a[e];s=h[1];r=h[2];if s==f and r>=c then o[r]=s[r];h[1]=o;end;end;end;end end end break;end;f[e[t]]();until true;else f[e[t]]();end else if h~=2 then repeat if 5~=h then local o,c,u,s,a,h;for h=0,6 do if h<=2 then if h>=1 then if 1==h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end else if 4>=h then if 2<h then for r=47,78 do if h>3 then h=0;while h>-1 do if h>=3 then if h>=5 then if 3<h then repeat if 5<h then h=-2;break;end;f(a,s);until true;else f(a,s);end else if-1<=h then for e=21,62 do if 3<h then a=o[c];break;end;s=o[u];break;end;else a=o[c];end end else if h<=0 then o=e;else if h>1 then u=d;else c=t;end end end h=h+1 end n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else if h>2 then repeat if h~=6 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);until true;else f(e[t],e[d]);n=n+1;e=l[n];end end end end break;end;local h;f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))until true;else local o,s,u,c,a,h;for h=0,6 do if h<=2 then if h>=1 then if 1==h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end else if 4>=h then if 2<h then for r=47,78 do if h>3 then h=0;while h>-1 do if h>=3 then if h>=5 then if 3<h then repeat if 5<h then h=-2;break;end;f(a,c);until true;else f(a,c);end else if-1<=h then for e=21,62 do if 3<h then a=o[s];break;end;c=o[u];break;end;else a=o[s];end end else if h<=0 then o=e;else if h>1 then u=d;else s=t;end end end h=h+1 end n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else if h>2 then repeat if h~=6 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);until true;else f(e[t],e[d]);n=n+1;e=l[n];end end end end end end else if h>=1 then if-1<h then repeat if h>1 then f[e[t]]=r[e[d]];break;end;local a;for h=0,6 do if 2<h then if 5<=h then if h~=4 then repeat if 5~=h then f(e[t],e[d]);break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f(e[t],e[d]);end else if h~=3 then f[e[t]]=r[e[d]];n=n+1;e=l[n];else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end end else if 0>=h then a=e[t]f[a](o(f,a+1,e[d]))n=n+1;e=l[n];else if 1~=h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end end end end until true;else local a;for h=0,6 do if 2<h then if 5<=h then if h~=4 then repeat if 5~=h then f(e[t],e[d]);break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f(e[t],e[d]);end else if h~=3 then f[e[t]]=r[e[d]];n=n+1;e=l[n];else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end end else if 0>=h then a=e[t]f[a](o(f,a+1,e[d]))n=n+1;e=l[n];else if 1~=h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end end end end end else if f[e[t]]then n=n+1;else n=e[d];end;end end end end else if h>41 then if h<49 then if 45>h then if h<43 then f[e[t]]=f[e[d]];else if 39<h then repeat if h>43 then local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))break;end;do return end;until true;else do return end;end end else if h<47 then if h>44 then for r=40,63 do if h~=46 then local h,o;for r=0,4 do if 2>r then if r~=-3 then repeat if 0<r then h=e[t];o=f[e[d]];f[h+1]=o;f[h]=o[e[_]];n=n+1;e=l[n];break;end;f[e[t]]=s[e[d]];n=n+1;e=l[n];until true;else f[e[t]]=s[e[d]];n=n+1;e=l[n];end else if 2>=r then h=e[t]f[h](f[h+1])n=n+1;e=l[n];else if r~=4 then f[e[t]]=s[e[d]];n=n+1;e=l[n];else f[e[t]]();end end end end break;end;local h;f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=s[e[d]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];do return end;break;end;else local h;f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=s[e[d]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];do return end;end else if h>45 then repeat if 48>h then local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))break;end;local c=k[e[d]];local o;local h={};o=a.Kw_lvsLf({},{__index=function(n,e)local e=h[e];return e[1][e[2]];end,__newindex=function(f,e,n)local e=h[e]e[1][e[2]]=n;end;});for t=1,e[_]do n=n+1;local e=l[n];if e[m]==42 then h[t-1]={f,e[d]};else h[t-1]={s,e[d]};end;u[#u+1]=h;end;f[e[t]]=p(c,o,r);until true;else local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))end end end else if h>=53 then if 55>h then if 50<=h then for r=21,92 do if h<54 then local h;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];break;end;local t=e[t];local n=f[e[d]];f[t+1]=n;f[t]=n[e[_]];break;end;else local h;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];end else if 56~=h then local h;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];else n=e[d];end end else if h<=50 then if h~=45 then repeat if h>49 then for h=0,1 do if h>=-4 then repeat if 0~=h then if(f[e[t]]==e[_])then n=n+1;else n=e[d];end;break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end break;end;local h;h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];until true;else local h;h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];end else if h==52 then local r;for h=0,6 do if 3<=h then if h<=4 then if h>2 then repeat if 4>h then f(e[t],e[d]);n=n+1;e=l[n];break;end;r=e[t]f[r]=f[r](o(f,r+1,e[d]))n=n+1;e=l[n];until true;else f(e[t],e[d]);n=n+1;e=l[n];end else if 2~=h then repeat if h<6 then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=e[_];until true;else f[e[t]][e[d]]=e[_];end end else if 0<h then if h>-2 then repeat if h~=1 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else f(e[t],e[d]);n=n+1;e=l[n];end else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end end else n=e[d];end end end end else if 35<=h then if 37>=h then if 36>h then local o,s,a,u,c,h;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];h=0;while h>-1 do if h>=3 then if h>4 then if h>4 then repeat if h~=6 then f(c,u);break;end;h=-2;until true;else h=-2;end else if 3~=h then c=o[s];else u=o[a];end end else if h<=0 then o=e;else if-3~=h then repeat if h~=2 then s=t;break;end;a=d;until true;else a=d;end end end h=h+1 end n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);else if 36<h then local n=e[t]f[n]=f[n](o(f,n+1,e[d]))else local h,o;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](f[h+1])n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];h=e[t];o=f[e[d]];f[h+1]=o;f[h]=o[e[_]];end end else if 39>=h then if 37<=h then for a=26,65 do if 39>h then local h,r;f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];h=e[t];r=f[e[d]];f[h+1]=r;f[h]=r[e[_]];break;end;local a,s,u,c,b,h,k;h=0;while h>-1 do if h>=3 then if h<=4 then if h~=-1 then for e=49,68 do if 3~=h then b=a[s];break;end;c=a[u];break;end;else c=a[u];end else if h<6 then f(b,c);else h=-2;end end else if 0<h then if 1==h then s=t;else u=d;end else a=e;end end h=h+1 end n=n+1;e=l[n];h=0;while h>-1 do if h>=3 then if h>4 then if h~=5 then h=-2;else f(b,c);end else if h<4 then c=a[u];else b=a[s];end end else if 0>=h then a=e;else if-2<=h then repeat if h>1 then u=d;break;end;s=t;until true;else s=t;end end end h=h+1 end n=n+1;e=l[n];k=e[t]f[k]=f[k](o(f,k+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);break;end;else local h,r;f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];h=e[t];r=f[e[d]];f[h+1]=r;f[h]=r[e[_]];end else if h~=36 then repeat if 41>h then local h,r;h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];h=e[t];r=f[e[d]];f[h+1]=r;f[h]=r[e[_]];break;end;local h;f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=s[e[d]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];until true;else local h;f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=s[e[d]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];end end end else if h<=30 then if 28>=h then local a;for h=0,6 do if 3<=h then if 4<h then if h>4 then repeat if h<6 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);until true;else f(e[t],e[d]);n=n+1;e=l[n];end else if h>-1 then for r=33,80 do if 3~=h then f(e[t],e[d]);n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;else f(e[t],e[d]);n=n+1;e=l[n];end end else if 0>=h then a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];else if 1<h then f[e[t]]=r[e[d]];n=n+1;e=l[n];else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end end end end else if 29~=h then f[e[t]]=s[e[d]];else local c=k[e[d]];local o;local h={};o=a.Kw_lvsLf({},{__index=function(n,e)local e=h[e];return e[1][e[2]];end,__newindex=function(f,e,n)local e=h[e]e[1][e[2]]=n;end;});for t=1,e[_]do n=n+1;local e=l[n];if e[m]==42 then h[t-1]={f,e[d]};else h[t-1]={s,e[d]};end;u[#u+1]=h;end;f[e[t]]=p(c,o,r);end end else if h>32 then if 29<h then for l=24,77 do if h<34 then if(f[e[t]]==f[e[_]])then n=n+1;else n=e[d];end;break;end;local e=e[t]f[e](f[e+1])break;end;else if(f[e[t]]==f[e[_]])then n=n+1;else n=e[d];end;end else if 31<h then f[e[t]]=f[e[d]][e[_]];else local h;for r=0,6 do if r<3 then if 1>r then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];else if 1<r then f(e[t],e[d]);n=n+1;e=l[n];else f(e[t],e[d]);n=n+1;e=l[n];end end else if 4<r then if 2~=r then repeat if 5<r then f[e[t]][e[d]]=f[e[_]];break;end;h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];until true;else h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];end else if 1<r then for _=41,66 do if r~=3 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];break;end;else f(e[t],e[d]);n=n+1;e=l[n];end end end end end end end end end end else if h<=85 then if 70<h then if h<78 then if 73>=h then if 72<=h then if 70<=h then repeat if 72~=h then local r;for h=0,6 do if h<3 then if h>0 then if 1<h then r=e[t]f[r]=f[r](o(f,r+1,e[d]))n=n+1;e=l[n];else f(e[t],e[d]);n=n+1;e=l[n];end else f(e[t],e[d]);n=n+1;e=l[n];end else if h>4 then if 1<=h then repeat if 6~=h then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=f[e[_]];until true;else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end else if h>=0 then repeat if h~=3 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];until true;else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end end end end break;end;local h;f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];until true;else local h;f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];end else local d=e[d];local n=f[d]for e=d+1,e[_]do n=n..f[e];end;f[e[t]]=n;end else if 75>=h then if h==74 then local n=e[t]f[n](o(f,n+1,e[d]))else local a;for h=0,6 do if 3<=h then if 4>=h then if 2<h then for r=42,66 do if h>3 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;else f(e[t],e[d]);n=n+1;e=l[n];end else if h>1 then repeat if 5~=h then f(e[t],e[d]);break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else f(e[t],e[d]);n=n+1;e=l[n];end end else if 1>h then a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];else if 0~=h then repeat if 2>h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];until true;else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end end end end end else if 73~=h then for r=13,53 do if 76~=h then local e=e[t]f[e]=f[e](f[e+1])break;end;local r;for h=0,6 do if h>2 then if h>4 then if 6~=h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];else f[e[t]][e[d]]=e[_];end else if h>1 then repeat if 3<h then r=e[t]f[r]=f[r](o(f,r+1,e[d]))n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else r=e[t]f[r]=f[r](o(f,r+1,e[d]))n=n+1;e=l[n];end end else if h>=1 then if 0<h then for _=15,74 do if 1<h then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];break;end;else f(e[t],e[d]);n=n+1;e=l[n];end else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end end break;end;else local h;for r=0,6 do if r>2 then if r>4 then if 6~=r then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];else f[e[t]][e[d]]=e[_];end else if r>1 then repeat if 3<r then h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];end end else if r>=1 then if 0<r then for _=15,74 do if 1<r then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];break;end;else f(e[t],e[d]);n=n+1;e=l[n];end else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end end end end end else if h>81 then if h>83 then if 84==h then local l,_,o,r,h;local n=0;while n>-1 do if n<3 then if 0<n then if-3<n then for e=21,79 do if n~=1 then o=d;break;end;_=t;break;end;else _=t;end else l=e;end else if 4<n then if n~=3 then repeat if n~=5 then n=-2;break;end;f(h,r);until true;else n=-2;end else if n~=3 then h=l[_];else r=l[o];end end end n=n+1 end else f[e[t]]=(e[d]~=0);end else if 79<h then repeat if 82<h then f[e[t]][e[d]]=e[_];break;end;local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);until true;else local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);end end else if h>=80 then if h==80 then local h;f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];else local h;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];end else if h==78 then local s,u,b,a,c,h,r;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=0;while h>-1 do if 2<h then if 5<=h then if 3~=h then for e=32,94 do if h~=5 then h=-2;break;end;f(c,a);break;end;else f(c,a);end else if 2<=h then repeat if 3<h then c=s[u];break;end;a=s[b];until true;else a=s[b];end end else if 0<h then if h~=-1 then for e=46,95 do if h~=2 then u=t;break;end;b=d;break;end;else u=t;end else s=e;end end h=h+1 end n=n+1;e=l[n];r=e[t]f[r]=f[r](o(f,r+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);end end end end else if h<64 then if h>=60 then if 61>=h then if 57<=h then repeat if h<61 then local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);break;end;local k,a,b,c,u,s,h;for h=0,6 do if h<=2 then if 0<h then if 1==h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else k=e[t]f[k]=f[k](o(f,k+1,e[d]))n=n+1;e=l[n];end else if h>4 then if h~=6 then f(e[t],e[d]);n=n+1;e=l[n];else f(e[t],e[d]);end else if h>=0 then for r=39,64 do if 3~=h then h=0;while h>-1 do if h>=3 then if h>=5 then if h~=6 then f(s,u);else h=-2;end else if h<4 then u=a[c];else s=a[b];end end else if 0<h then if h<2 then b=t;else c=d;end else a=e;end end h=h+1 end n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;else h=0;while h>-1 do if h>=3 then if h>=5 then if h~=6 then f(s,u);else h=-2;end else if h<4 then u=a[c];else s=a[b];end end else if 0<h then if h<2 then b=t;else c=d;end else a=e;end end h=h+1 end n=n+1;e=l[n];end end end end until true;else local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);end else if h>=59 then for a=19,57 do if h~=63 then f[e[t]]=r[e[d]];break;end;local a;for h=0,6 do if 3>h then if 0>=h then f[e[t]]=r[e[d]];n=n+1;e=l[n];else if 0~=h then repeat if h~=1 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end else if h>=5 then if 4~=h then repeat if h>5 then a=e[t]f[a]=f[a](o(f,a+1,e[d]))break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else f(e[t],e[d]);n=n+1;e=l[n];end else if 2~=h then for _=41,70 do if 3~=h then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];break;end;else f(e[t],e[d]);n=n+1;e=l[n];end end end end break;end;else local a;for h=0,6 do if 3>h then if 0>=h then f[e[t]]=r[e[d]];n=n+1;e=l[n];else if 0~=h then repeat if h~=1 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end else if h>=5 then if 4~=h then repeat if h>5 then a=e[t]f[a]=f[a](o(f,a+1,e[d]))break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else f(e[t],e[d]);n=n+1;e=l[n];end else if 2~=h then for _=41,70 do if 3~=h then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];break;end;else f(e[t],e[d]);n=n+1;e=l[n];end end end end end end else if 57>=h then if f[e[t]]then n=n+1;else n=e[d];end;else if 57<h then repeat if 58<h then f[e[t]]=f[e[d]][e[_]];break;end;local l=e[t];local d={};for e=1,#u do local e=u[e];for n=0,#e do local e=e[n];local t=e[1];local n=e[2];if t==f and n>=l then d[n]=t[n];e[1]=d;end;end;end;until true;else f[e[t]]=f[e[d]][e[_]];end end end else if 67<=h then if h>68 then if h>65 then repeat if 69<h then f[e[t]]();break;end;local a;for h=0,6 do if 2>=h then if 1<=h then if-1<=h then repeat if h~=2 then a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];break;end;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];until true;else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end else f(e[t],e[d]);n=n+1;e=l[n];end else if 4<h then if h~=1 then repeat if h<6 then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=f[e[_]];until true;else f[e[t]][e[d]]=f[e[_]];end else if h>=0 then repeat if h~=4 then f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f[e[t]]=r[e[d]];n=n+1;e=l[n];end end end end until true;else f[e[t]]();end else if h>63 then repeat if 68>h then for h=0,6 do if h<3 then if h>0 then if 0<h then for o=17,55 do if h~=2 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end else if h>4 then if 4<=h then for _=49,74 do if h~=5 then f(e[t],e[d]);break;end;f(e[t],e[d]);n=n+1;e=l[n];break;end;else f(e[t],e[d]);end else if h>2 then repeat if 3<h then f(e[t],e[d]);n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end end end break;end;local l=e[t];local t={};for e=1,#u do local e=u[e];for n=0,#e do local n=e[n];local d=n[1];local e=n[2];if d==f and e>=l then t[e]=d[e];n[1]=t;end;end;end;until true;else for h=0,6 do if h<3 then if h>0 then if 0<h then for o=17,55 do if h~=2 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end else if h>4 then if 4<=h then for _=49,74 do if h~=5 then f(e[t],e[d]);break;end;f(e[t],e[d]);n=n+1;e=l[n];break;end;else f(e[t],e[d]);end else if h>2 then repeat if 3<h then f(e[t],e[d]);n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end end end end end else if 64<h then if 64~=h then for o=35,68 do if h~=65 then local e=e[t]f[e](f[e+1])break;end;local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);break;end;else local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](f[h+1])n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);end else local r,u,s,a,c,h,b;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=0;while h>-1 do if h>2 then if h>=5 then if 3~=h then for e=18,94 do if 6>h then f(c,a);break;end;h=-2;break;end;else f(c,a);end else if 1<h then for e=46,72 do if 4>h then a=r[s];break;end;c=r[u];break;end;else a=r[s];end end else if h>0 then if 2~=h then u=t;else s=d;end else r=e;end end h=h+1 end n=n+1;e=l[n];h=0;while h>-1 do if 3>h then if h<1 then r=e;else if h==2 then s=d;else u=t;end end else if h>=5 then if h<6 then f(c,a);else h=-2;end else if 1~=h then for e=33,94 do if 4~=h then a=r[s];break;end;c=r[u];break;end;else a=r[s];end end end h=h+1 end n=n+1;e=l[n];b=e[t]f[b]=f[b](o(f,b+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];end end end end else if h>99 then if h>106 then if h>110 then if h<113 then if h~=109 then for o=48,75 do if h~=111 then local o,c,s,a,b,h,u;for h=0,6 do if h<3 then if h>0 then if 0<=h then repeat if h>1 then h=0;while h>-1 do if 3<=h then if h<5 then if h>=1 then for e=14,93 do if h~=4 then a=o[s];break;end;b=o[c];break;end;else a=o[s];end else if h>3 then repeat if h~=5 then h=-2;break;end;f(b,a);until true;else h=-2;end end else if 0>=h then o=e;else if-2<h then for e=47,69 do if h~=2 then c=t;break;end;s=d;break;end;else c=t;end end end h=h+1 end n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else h=0;while h>-1 do if 3<=h then if h<5 then if h>=1 then for e=14,93 do if h~=4 then a=o[s];break;end;b=o[c];break;end;else a=o[s];end else if h>3 then repeat if h~=5 then h=-2;break;end;f(b,a);until true;else h=-2;end end else if 0>=h then o=e;else if-2<h then for e=47,69 do if h~=2 then c=t;break;end;s=d;break;end;else c=t;end end end h=h+1 end n=n+1;e=l[n];end else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else if h>4 then if 2~=h then for r=39,57 do if h~=5 then f(e[t],e[d]);break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else if 3==h then u=e[t]f[u]=f[u](f[u+1])n=n+1;e=l[n];else f[e[t]]=r[e[d]];n=n+1;e=l[n];end end end end break;end;f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];break;end;else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];end else if 109~=h then for a=12,91 do if h<114 then local o,a,s,c,u,h;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=0;while h>-1 do if h<3 then if h>0 then if h>=-1 then repeat if 2>h then a=t;break;end;s=d;until true;else a=t;end else o=e;end else if h>4 then if 6>h then f(u,c);else h=-2;end else if h>=-1 then for e=29,64 do if h~=3 then u=o[a];break;end;c=o[s];break;end;else c=o[s];end end end h=h+1 end n=n+1;e=l[n];h=0;while h>-1 do if 2>=h then if h>=1 then if 1==h then a=t;else s=d;end else o=e;end else if 4<h then if 6>h then f(u,c);else h=-2;end else if h>3 then u=o[a];else c=o[s];end end end h=h+1 end break;end;local a;for h=0,6 do if h<3 then if h<1 then a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];else if-2~=h then repeat if h>1 then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];until true;else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end end else if h>=5 then if h~=4 then repeat if 5~=h then f(e[t],e[d]);break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else f(e[t],e[d]);n=n+1;e=l[n];end else if 2<=h then for o=39,66 do if h~=4 then f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end end end break;end;else local o,a,s,c,u,h;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=0;while h>-1 do if h<3 then if h>0 then if h>=-1 then repeat if 2>h then a=t;break;end;s=d;until true;else a=t;end else o=e;end else if h>4 then if 6>h then f(u,c);else h=-2;end else if h>=-1 then for e=29,64 do if h~=3 then u=o[a];break;end;c=o[s];break;end;else c=o[s];end end end h=h+1 end n=n+1;e=l[n];h=0;while h>-1 do if 2>=h then if h>=1 then if 1==h then a=t;else s=d;end else o=e;end else if 4<h then if 6>h then f(u,c);else h=-2;end else if h>3 then u=o[a];else c=o[s];end end end h=h+1 end end end else if h<=108 then if 106<h then repeat if h>107 then f[e[t]][e[d]]=f[e[_]];break;end;local a;for h=0,6 do if h<=2 then if h>0 then if h>=-3 then for r=12,59 do if 1~=h then f[e[t]][e[d]]=e[_];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];break;end;else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end else a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];end else if h<5 then if h~=2 then for o=40,88 do if 4>h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else if h>=2 then repeat if h~=5 then f(e[t],e[d]);break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end end end until true;else f[e[t]][e[d]]=f[e[_]];end else if h~=105 then for o=39,61 do if h>109 then for h=0,6 do if h<=2 then if h>0 then if h==1 then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else if h>=5 then if 4~=h then repeat if 6~=h then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;f(e[t],e[d]);until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else if 1<h then repeat if h>3 then f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];until true;else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end end end end break;end;for h=0,3 do if 2<=h then if-1<h then repeat if 2~=h then if(f[e[t]]~=e[_])then n=n+1;else n=e[d];end;break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];until true;else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else if h~=1 then f[e[t]]=(e[d]~=0);n=n+1;e=l[n];else r[e[d]]=f[e[t]];n=n+1;e=l[n];end end end break;end;else for h=0,6 do if h<=2 then if h>0 then if h==1 then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else if h>=5 then if 4~=h then repeat if 6~=h then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;f(e[t],e[d]);until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end else if 1<h then repeat if h>3 then f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];until true;else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end end end end end end end else if 102>=h then if 101<=h then if 99<h then repeat if h<102 then f[e[t]]=p(k[e[d]],nil,r);break;end;local a;for h=0,6 do if 2<h then if h>=5 then if 6~=h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];else f[e[t]]=r[e[d]];end else if h~=2 then repeat if 3~=h then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];until true;else f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];end end else if h>=1 then if h~=-3 then for o=20,58 do if 2~=h then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];break;end;f[e[t]]=r[e[d]];n=n+1;e=l[n];break;end;else f[e[t]]=r[e[d]];n=n+1;e=l[n];end else a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];end end end until true;else f[e[t]]=p(k[e[d]],nil,r);end else f[e[t]][e[d]]=f[e[_]];end else if h>=105 then if 101<h then repeat if h<106 then local t=e[t];local n=f[e[d]];f[t+1]=n;f[t]=n[e[_]];break;end;local h;f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];until true;else local h;f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];end else if 103==h then local h;for a=0,6 do if a<3 then if 0>=a then f(e[t],e[d]);n=n+1;e=l[n];else if-1<a then repeat if a>1 then h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];end end else if a<=4 then if 1~=a then for h=36,79 do if a<4 then f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=e[_];n=n+1;e=l[n];break;end;else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end else if 5<a then f[e[t]]=r[e[d]];else f[e[t]][e[d]]=e[_];n=n+1;e=l[n];end end end end else local h;h=e[t]f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);end end end end else if 92>=h then if h<=88 then if 86>=h then local e=e[t]f[e]=f[e](o(f,e+1,c))else if h>85 then for a=26,66 do if 88~=h then local a;for h=0,6 do if h>=3 then if h>=5 then if 1~=h then repeat if 6>h then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);until true;else f(e[t],e[d]);n=n+1;e=l[n];end else if 1~=h then for r=49,54 do if h~=3 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;else f(e[t],e[d]);n=n+1;e=l[n];end end else if h<1 then a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];else if 2==h then f[e[t]]=r[e[d]];n=n+1;e=l[n];else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end end end end break;end;if(f[e[t]]~=e[_])then n=n+1;else n=e[d];end;break;end;else local a;for h=0,6 do if h>=3 then if h>=5 then if 1~=h then repeat if 6>h then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);until true;else f(e[t],e[d]);n=n+1;e=l[n];end else if 1~=h then for r=49,54 do if h~=3 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];break;end;else f(e[t],e[d]);n=n+1;e=l[n];end end else if h<1 then a=e[t]f[a]=f[a](o(f,a+1,e[d]))n=n+1;e=l[n];else if 2==h then f[e[t]]=r[e[d]];n=n+1;e=l[n];else f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];end end end end end end else if 91>h then if 90>h then local h;f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];else local o;for h=0,6 do if 2>=h then if h<1 then f[e[t]]=r[e[d]];n=n+1;e=l[n];else if h>=-2 then repeat if h~=1 then o=e[t]f[o](f[o+1])n=n+1;e=l[n];break;end;f[e[t]]=s[e[d]];n=n+1;e=l[n];until true;else o=e[t]f[o](f[o+1])n=n+1;e=l[n];end end else if h<=4 then if h>2 then repeat if h<4 then f[e[t]]=s[e[d]];n=n+1;e=l[n];break;end;f[e[t]][e[d]]=e[_];n=n+1;e=l[n];until true;else f[e[t]]=s[e[d]];n=n+1;e=l[n];end else if 6>h then f[e[t]]=r[e[d]];n=n+1;e=l[n];else f[e[t]]=f[e[d]][e[_]];end end end end end else if 90<h then repeat if 91~=h then local n=e[t]f[n]=f[n](o(f,n+1,e[d]))break;end;if(f[e[t]]==f[e[_]])then n=n+1;else n=e[d];end;until true;else if(f[e[t]]==f[e[_]])then n=n+1;else n=e[d];end;end end end else if 95>=h then if h>93 then if 92~=h then repeat if 94<h then local h;h=e[t]f[h]=f[h](o(f,h+1,e[d]))n=n+1;e=l[n];f[e[t]][e[d]]=f[e[_]];n=n+1;e=l[n];f[e[t]][e[d]]=e[_];n=n+1;e=l[n];f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);break;end;r[e[d]]=f[e[t]];until true;else r[e[d]]=f[e[t]];end else local h;for a=0,6 do if 2>=a then if a<=0 then f[e[t]]=r[e[d]];n=n+1;e=l[n];else if a<2 then f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];else f(e[t],e[d]);n=n+1;e=l[n];end end else if 4<a then if 3<a then repeat if 5~=a then h=e[t]f[h]=f[h](o(f,h+1,e[d]))break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else h=e[t]f[h]=f[h](o(f,h+1,e[d]))end else if a>0 then repeat if a~=4 then f(e[t],e[d]);n=n+1;e=l[n];break;end;f(e[t],e[d]);n=n+1;e=l[n];until true;else f(e[t],e[d]);n=n+1;e=l[n];end end end end end else if 98<=h then if h>=96 then repeat if 98~=h then local n=e[t]f[n](o(f,n+1,e[d]))break;end;local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))until true;else local h;f[e[t]]=r[e[d]];n=n+1;e=l[n];f[e[t]]=f[e[d]][e[_]];n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];f(e[t],e[d]);n=n+1;e=l[n];h=e[t]f[h]=f[h](o(f,h+1,e[d]))end else if 94<h then repeat if h>96 then f[e[t]]=(e[d]~=0);break;end;do return end;until true;else do return end;end end end end end end end n=1+n;end;end;return te end;local d=0xff;local r={};local l=(1);local t='';(function(n)local f=n local _=0x00 local e=0x00 f={(function(h)if _>0x26 then return h end _=_+1 e=(e+0x10dc-h)%0x32 return(e%0x03==0x2 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xc);end return true end)'wEyLM'and f[0x1](0x10b+h))or(e%0x03==0x1 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xb0);d[2]=(d[2]*(ee(function()r()end,o(t))-ee(d[1],o(t))))+1;r[l]={};d=d[2];l=l+d;end return true end)'BKPPm'and f[0x2](h+0x134))or(e%0x03==0x0 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xa);end return true end)'Qfc_W'and f[0x3](h+0x1b0))or h end),(function(h)if _>0x2a then return h end _=_+1 e=(e+0x51f-h)%0x35 return(e%0x03==0x1 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x78);t={t..'\58 a',t};r[l]=te();l=l+((not a.CBWQiJSh)and 1 or 0);t[1]='\58'..t[1];d[2]=0xff;end return true end)'Jt_ov'and f[0x1](0x31f+h))or(e%0x03==0x0 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x97);r[l]=de();l=l+d;end return true end)'DEIpB'and f[0x3](h+0x2ce))or(e%0x03==0x2 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x67);t='\37';d={function()d()end};t=t..'\100\43';end return true end)'OtnVR'and f[0x2](h+0xa4))or h end),(function(t)if _>0x21 then return t end _=_+1 e=(e+0x11ba-t)%0x16 return(e%0x03==0x1 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xc7);end return true end)'ZWpxm'and f[0x1](0x339+t))or(e%0x03==0x0 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x9e);end return true end)'etsEm'and f[0x3](t+0xae))or(e%0x03==0x2 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x65);end return true end)'WrCfS'and f[0x2](t+0x313))or t end)}f[0x2](0x1cd1)end){};local e=p(o(r));return e(...);end return ee((function()local n={}local e=0x01;local f;if a.CBWQiJSh then f=a.CBWQiJSh(ee)else f=''end if a.yEqXhUvq(f,a.YZMyFIsW)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,f,d,t,l)local l;if 3>=n then if 1>=n then if 1==n then do return function(f,e,n)if n then local e=(f/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(f%(e+e)>=e)and 1 or 0;end;end;end;else do return e(1),e(4,t,d,f,e),e(5,t,d,f)end;end else if n>2 then do return e(1),e(4,t,d,f,e),e(5,t,d,f)end;else do return 16777216,65536,256 end;end end else if 6<=n then if 6<n then if n>6 then for e=15,77 do if n>7 then do return f(n,nil,f);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,d,f,t,n)if n then return e[n]elseif t then return e else e[d]=f end end})end break;end;else do return setmetatable({},{['__\99\97\108\108']=function(e,f,t,d,n)if n then return e[n]elseif d then return e else e[f]=t end end})end end else do return t[f]end;end else if 3~=n then repeat if 5~=n then local n=d;local l,_,h=t(2);do return function()local f,d,e,t=e(f,n(n,n),n(n,n)+3);n(4);return(t*l)+(e*_)+(d*h)+f;end;end;break;end;local n=d;do return function()local e=e(f,n(n,n),n(n,n));n(1);return e;end;end;until true;else local n=d;local l,d,t=t(2);do return function()local e,f,_,h=e(f,n(n,n),n(n,n)+3);n(4);return(h*l)+(_*d)+(f*t)+e;end;end;end end end end),...)
+--HECKERX
+
+local HeckerX = Instance.new("ScreenGui")
+local hold = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local NDS = Instance.new("ImageLabel")
+local TextLabel = Instance.new("TextLabel")
+local B = Instance.new("TextButton")
+local UICorner_2 = Instance.new("UICorner")
+local PL2 = Instance.new("ImageLabel")
+local TextLabel_2 = Instance.new("TextLabel")
+local B_2 = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local TOH = Instance.new("ImageLabel")
+local TextLabel_3 = Instance.new("TextLabel")
+local B_3 = Instance.new("TextButton")
+local UICorner_4 = Instance.new("UICorner")
+local NameHold = Instance.new("TextLabel")
+local UICorner_5 = Instance.new("UICorner")
+local TextLabel_4 = Instance.new("TextLabel")
+local DPTB4 = Instance.new("ImageLabel")
+local TextLabel_5 = Instance.new("TextLabel")
+local B_4 = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local DB = Instance.new("ImageLabel")
+local TextLabel_6 = Instance.new("TextLabel")
+local B_5 = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local TextButton = Instance.new("TextButton")
+local Boom = Instance.new("ImageButton")
+
+--Properties:
+
+HeckerX.Name = "Snake Hub"
+HeckerX.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+HeckerX.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+HeckerX.ResetOnSpawn = false
+
+hold.Name = "hold"
+hold.Parent = HeckerX
+hold.Active = true
+hold.BackgroundColor3 = Color3.fromRGB(30, 47, 53)
+hold.Draggable = true
+hold.Position = UDim2.new(0.22693269, -252, 0.352092355, 98)
+hold.Size = UDim2.new(0, 655, 0, 350)
+
+UICorner.CornerRadius = UDim.new(0, 15)
+UICorner.Parent = hold
+
+NDS.Name = "NDS"
+NDS.Parent = hold
+NDS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NDS.BorderColor3 = Color3.fromRGB(0, 0, 0)
+NDS.BorderSizePixel = 3
+NDS.Position = UDim2.new(0.419644892, 0, 0.160000011, 0)
+NDS.Size = UDim2.new(0, 100, 0, 100)
+NDS.Image = "http://www.roblox.com/asset/?id=949129290"
+
+TextLabel.Parent = NDS
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 0.950
+TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.BorderSizePixel = 3
+TextLabel.Position = UDim2.new(0, 0, 1, 0)
+TextLabel.Size = UDim2.new(0, 100, 0, 21)
+TextLabel.Font = Enum.Font.SciFi
+TextLabel.Text = "Natural Disaster Survival"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+B.Name = "B"
+B.Parent = NDS
+B.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
+B.Position = UDim2.new(0, 0, 1.38999999, 0)
+B.Size = UDim2.new(0, 100, 0, 28)
+B.Font = Enum.Font.SciFi
+B.Text = "GET"
+B.TextColor3 = Color3.fromRGB(255, 255, 255)
+B.TextScaled = true
+B.TextSize = 14.000
+B.TextStrokeTransparency = 0.000
+B.TextWrapped = true
+
+UICorner_2.Parent = B
+
+PL2.Name = "PL2"
+PL2.Parent = hold
+PL2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PL2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+PL2.BorderSizePixel = 3
+PL2.Position = UDim2.new(0.23028855, 0, 0.160000011, 0)
+PL2.Size = UDim2.new(0, 100, 0, 100)
+PL2.Image = "http://www.roblox.com/asset/?id=550135087"
+
+TextLabel_2.Parent = PL2
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 0.950
+TextLabel_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_2.BorderSizePixel = 3
+TextLabel_2.Position = UDim2.new(0, 0, 1, 0)
+TextLabel_2.Size = UDim2.new(0, 100, 0, 21)
+TextLabel_2.Font = Enum.Font.SciFi
+TextLabel_2.Text = "Prison Life 2"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextScaled = true
+TextLabel_2.TextSize = 14.000
+TextLabel_2.TextWrapped = true
+
+B_2.Name = "B"
+B_2.Parent = PL2
+B_2.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
+B_2.Position = UDim2.new(0, 0, 1.38999999, 0)
+B_2.Size = UDim2.new(0, 100, 0, 28)
+B_2.Font = Enum.Font.SciFi
+B_2.Text = "GET"
+B_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+B_2.TextScaled = true
+B_2.TextSize = 14.000
+B_2.TextStrokeTransparency = 0.000
+B_2.TextWrapped = true
+
+UICorner_3.Parent = B_2
+
+TOH.Name = "TOH"
+TOH.Parent = hold
+TOH.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TOH.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TOH.BorderSizePixel = 3
+TOH.Position = UDim2.new(0.0348253548, 0, 0.160000011, 0)
+TOH.Size = UDim2.new(0, 100, 0, 100)
+TOH.Image = "http://www.roblox.com/asset/?id=6791135856"
+
+TextLabel_3.Parent = TOH
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BackgroundTransparency = 0.950
+TextLabel_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_3.BorderSizePixel = 3
+TextLabel_3.Position = UDim2.new(0, 0, 1, 0)
+TextLabel_3.Size = UDim2.new(0, 100, 0, 21)
+TextLabel_3.Font = Enum.Font.SciFi
+TextLabel_3.Text = "Tower of hell"
+TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.TextScaled = true
+TextLabel_3.TextSize = 14.000
+TextLabel_3.TextWrapped = true
+
+B_3.Name = "B"
+B_3.Parent = TOH
+B_3.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
+B_3.Position = UDim2.new(0, 0, 1.38999999, 0)
+B_3.Size = UDim2.new(0, 100, 0, 28)
+B_3.Font = Enum.Font.SciFi
+B_3.Text = "GET"
+B_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+B_3.TextScaled = true
+B_3.TextSize = 14.000
+B_3.TextStrokeTransparency = 0.000
+B_3.TextWrapped = true
+
+UICorner_4.Parent = B_3
+
+NameHold.Name = "NameHold"
+NameHold.Parent = hold
+NameHold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NameHold.BackgroundTransparency = 0.900
+NameHold.Size = UDim2.new(0, 655, 0, 42)
+NameHold.Font = Enum.Font.SciFi
+NameHold.Text = "Snake Hub"
+NameHold.TextColor3 = Color3.fromRGB(255, 255, 255)
+NameHold.TextScaled = true
+NameHold.TextSize = 14.000
+NameHold.TextWrapped = true
+
+UICorner_5.CornerRadius = UDim.new(0, 15)
+UICorner_5.Parent = NameHold
+
+TextLabel_4.Parent = hold
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BackgroundTransparency = 1.000
+TextLabel_4.Position = UDim2.new(0, 0, 0.857142866, 0)
+TextLabel_4.Size = UDim2.new(0, 263, 0, 50)
+TextLabel_4.Font = Enum.Font.SciFi
+TextLabel_4.Text = "Credits: Owner and Creator: Bisu"
+TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.TextSize = 14.000
+
+DPTB4.Name = "DPTB4"
+DPTB4.Parent = hold
+DPTB4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DPTB4.BorderColor3 = Color3.fromRGB(0, 0, 0)
+DPTB4.BorderSizePixel = 3
+DPTB4.Position = UDim2.new(0.6104846, 0, 0.160000011, 0)
+DPTB4.Size = UDim2.new(0, 100, 0, 100)
+DPTB4.Image = "http://www.roblox.com/asset/?id=9332343103"
+
+TextLabel_5.Parent = DPTB4
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.BackgroundTransparency = 0.950
+TextLabel_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_5.BorderSizePixel = 3
+TextLabel_5.Position = UDim2.new(0, 0, 1, 0)
+TextLabel_5.Size = UDim2.new(0, 100, 0, 21)
+TextLabel_5.Font = Enum.Font.SciFi
+TextLabel_5.Text = "☄️Don't Press The Button 4"
+TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.TextScaled = true
+TextLabel_5.TextSize = 14.000
+TextLabel_5.TextWrapped = true
+
+B_4.Name = "B"
+B_4.Parent = DPTB4
+B_4.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
+B_4.Position = UDim2.new(0, 0, 1.38999999, 0)
+B_4.Size = UDim2.new(0, 100, 0, 28)
+B_4.Font = Enum.Font.SciFi
+B_4.Text = "GET"
+B_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+B_4.TextScaled = true
+B_4.TextSize = 14.000
+B_4.TextStrokeTransparency = 0.000
+B_4.TextWrapped = true
+
+UICorner_6.Parent = B_4
+
+DB.Name = "DB"
+DB.Parent = hold
+DB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DB.BorderColor3 = Color3.fromRGB(0, 0, 0)
+DB.BorderSizePixel = 3
+DB.Position = UDim2.new(0.799797595, 0, 0.160000011, 0)
+DB.Size = UDim2.new(0, 100, 0, 100)
+DB.Image = "http://www.roblox.com/asset/?id=3131051394"
+
+TextLabel_6.Parent = DB
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.BackgroundTransparency = 0.950
+TextLabel_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_6.BorderSizePixel = 3
+TextLabel_6.Position = UDim2.new(0, 0, 1, 0)
+TextLabel_6.Size = UDim2.new(0, 100, 0, 21)
+TextLabel_6.Font = Enum.Font.SciFi
+TextLabel_6.Text = "Doomspire Brickbattle"
+TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_6.TextScaled = true
+TextLabel_6.TextSize = 14.000
+TextLabel_6.TextWrapped = true
+
+B_5.Name = "B"
+B_5.Parent = DB
+B_5.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
+B_5.Position = UDim2.new(0, 0, 1.38999999, 0)
+B_5.Size = UDim2.new(0, 100, 0, 28)
+B_5.Font = Enum.Font.SciFi
+B_5.Text = "GET"
+B_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+B_5.TextScaled = true
+B_5.TextSize = 14.000
+B_5.TextStrokeTransparency = 0.000
+B_5.TextWrapped = true
+
+UICorner_7.Parent = B_5
+
+TextButton.Parent = hold
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+TextButton.BackgroundTransparency = 1.000
+TextButton.Position = UDim2.new(0.908396959, 0, 0, 0)
+TextButton.Size = UDim2.new(0, 60, 0, 42)
+TextButton.Font = Enum.Font.SciFi
+TextButton.Text = "X"
+TextButton.TextColor3 = Color3.fromRGB(255, 0, 0)
+TextButton.TextScaled = true
+TextButton.TextSize = 14.000
+TextButton.TextWrapped = true
+
+Boom.Name = "Boom"
+Boom.Parent = HeckerX
+Boom.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Boom.BackgroundTransparency = 1.000
+Boom.Position = UDim2.new(0, 0, 0.896103859, 0)
+Boom.Size = UDim2.new(0, 73, 0, 72)
+Boom.Visible = false
+Boom.Image = "http://www.roblox.com/asset/?id=7084526923"
+Boom.ImageColor3 = Color3.fromRGB(30, 47, 53)
+
+-- Scripts:
+
+local function CIXNLC_fake_script() -- B.LocalScript 
+	local script = Instance.new('LocalScript', B)
+
+	local function g()
+	local NDS = Instance.new("ScreenGui")
+	local Hold = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local NameHold = Instance.new("TextLabel")
+	local UICorner_2 = Instance.new("UICorner")
+	local WS = Instance.new("TextButton")
+	local UICorner_3 = Instance.new("UICorner")
+	local WSS = Instance.new("TextBox")
+	local UICorner_4 = Instance.new("UICorner")
+	local JPP = Instance.new("TextBox")
+	local UICorner_5 = Instance.new("UICorner")
+	local JP = Instance.new("TextButton")
+	local UICorner_6 = Instance.new("UICorner")
+	local NFD = Instance.new("TextButton")
+	local UICorner_7 = Instance.new("UICorner")
+	local MAP = Instance.new("TextButton")
+	local UICorner_8 = Instance.new("UICorner")
+	local LOBBY = Instance.new("TextButton")
+	local UICorner_9 = Instance.new("UICorner")
+	local TextLabel = Instance.new("TextLabel")
+	local VTM = Instance.new("TextButton")
+	local UICorner_10 = Instance.new("UICorner")
+	
+	--Properties:
+	
+	NDS.Name = "NDS"
+	NDS.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+	NDS.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	NDS.ResetOnSpawn = false
+	
+	Hold.Name = "Hold"
+	Hold.Parent = NDS
+	Hold.BackgroundColor3 = Color3.fromRGB(30, 47, 53)
+	Hold.Position = UDim2.new(0.28678304, 0, 0.261183262, 0)
+	Hold.Size = UDim2.new(0, 512, 0, 330)
+	Hold.Active = true
+	Hold.Draggable = true
+	
+	UICorner.CornerRadius = UDim.new(0, 15)
+	UICorner.Parent = Hold
+	
+	NameHold.Name = "NameHold"
+	NameHold.Parent = Hold
+	NameHold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.BackgroundTransparency = 0.950
+	NameHold.Size = UDim2.new(0, 512, 0, 37)
+	NameHold.Font = Enum.Font.SciFi
+	NameHold.Text = "NDS"
+	NameHold.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.TextScaled = true
+	NameHold.TextSize = 14.000
+	NameHold.TextWrapped = true
+	
+	UICorner_2.CornerRadius = UDim.new(0, 15)
+	UICorner_2.Parent = NameHold
+	
+	WS.Name = "WS"
+	WS.Parent = Hold
+	WS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WS.BackgroundTransparency = 0.950
+	WS.Position = UDim2.new(0.015625, 0, 0.13636364, 0)
+	WS.Size = UDim2.new(0, 200, 0, 50)
+	WS.Font = Enum.Font.SciFi
+	WS.Text = "WalkSpeed"
+	WS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WS.TextScaled = true
+	WS.TextSize = 14.000
+	WS.TextWrapped = true
+	
+	UICorner_3.CornerRadius = UDim.new(0, 15)
+	UICorner_3.Parent = WS
+	
+	WSS.Name = "WSS"
+	WSS.Parent = Hold
+	WSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.BackgroundTransparency = 0.950
+	WSS.Position = UDim2.new(0.419921875, 0, 0.13636364, 0)
+	WSS.Size = UDim2.new(0, 44, 0, 50)
+	WSS.Font = Enum.Font.SciFi
+	WSS.PlaceholderText = "Enter WalkSpeed"
+	WSS.Text = ""
+	WSS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.TextScaled = true
+	WSS.TextSize = 14.000
+	WSS.TextWrapped = true
+	
+	UICorner_4.CornerRadius = UDim.new(0, 15)
+	UICorner_4.Parent = WSS
+	
+	JPP.Name = "JPP"
+	JPP.Parent = Hold
+	JPP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.BackgroundTransparency = 0.950
+	JPP.Position = UDim2.new(0.419921875, 0, 0.312121212, 0)
+	JPP.Size = UDim2.new(0, 44, 0, 50)
+	JPP.Font = Enum.Font.SciFi
+	JPP.PlaceholderText = "Enter JumpPower"
+	JPP.Text = ""
+	JPP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.TextScaled = true
+	JPP.TextSize = 14.000
+	JPP.TextWrapped = true
+	
+	UICorner_5.CornerRadius = UDim.new(0, 15)
+	UICorner_5.Parent = JPP
+	
+	JP.Name = "JP"
+	JP.Parent = Hold
+	JP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JP.BackgroundTransparency = 0.950
+	JP.Position = UDim2.new(0.015625, 0, 0.312121212, 0)
+	JP.Size = UDim2.new(0, 200, 0, 50)
+	JP.Font = Enum.Font.SciFi
+	JP.Text = "JumpPower"
+	JP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JP.TextScaled = true
+	JP.TextSize = 14.000
+	JP.TextWrapped = true
+	
+	UICorner_6.CornerRadius = UDim.new(0, 15)
+	UICorner_6.Parent = JP
+	
+	NFD.Name = "NFD"
+	NFD.Parent = Hold
+	NFD.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	NFD.BackgroundTransparency = 0.950
+	NFD.Position = UDim2.new(0.015625, 0, 0.4909091, 0)
+	NFD.Size = UDim2.new(0, 495, 0, 50)
+	NFD.Font = Enum.Font.SciFi
+	NFD.Text = "NoDamageFall"
+	NFD.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NFD.TextScaled = true
+	NFD.TextSize = 14.000
+	NFD.TextWrapped = true
+	
+	UICorner_7.CornerRadius = UDim.new(0, 15)
+	UICorner_7.Parent = NFD
+	
+	MAP.Name = "MAP"
+	MAP.Parent = Hold
+	MAP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	MAP.BackgroundTransparency = 0.950
+	MAP.Position = UDim2.new(0.533203125, 0, 0.13636364, 0)
+	MAP.Size = UDim2.new(0, 230, 0, 50)
+	MAP.Font = Enum.Font.SciFi
+	MAP.Text = "MAP"
+	MAP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	MAP.TextScaled = true
+	MAP.TextSize = 14.000
+	MAP.TextWrapped = true
+	
+	UICorner_8.CornerRadius = UDim.new(0, 15)
+	UICorner_8.Parent = MAP
+	
+	LOBBY.Name = "LOBBY"
+	LOBBY.Parent = Hold
+	LOBBY.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	LOBBY.BackgroundTransparency = 0.950
+	LOBBY.Position = UDim2.new(0.533203125, 0, 0.312121212, 0)
+	LOBBY.Size = UDim2.new(0, 230, 0, 50)
+	LOBBY.Font = Enum.Font.SciFi
+	LOBBY.Text = "LOBBY"
+	LOBBY.TextColor3 = Color3.fromRGB(255, 255, 255)
+	LOBBY.TextScaled = true
+	LOBBY.TextSize = 14.000
+	LOBBY.TextWrapped = true
+	
+	UICorner_9.CornerRadius = UDim.new(0, 15)
+	UICorner_9.Parent = LOBBY
+	
+	TextLabel.Parent = Hold
+	TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.BackgroundTransparency = 1.000
+	TextLabel.Position = UDim2.new(0, 0, 0.848484874, 0)
+	TextLabel.Size = UDim2.new(0, 363, 0, 50)
+	TextLabel.Font = Enum.Font.SciFi
+	TextLabel.Text = "Credits: Owner and Creator: Bisu"
+	TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.TextSize = 14.000
+	
+	VTM.Name = "VTM"
+	VTM.Parent = Hold
+	VTM.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	VTM.BackgroundTransparency = 0.950
+	VTM.Position = UDim2.new(0.017578125, 0, 0.669696987, 0)
+	VTM.Size = UDim2.new(0, 495, 0, 50)
+	VTM.Font = Enum.Font.SciFi
+	VTM.Text = "CompassVoteMap"
+	VTM.TextColor3 = Color3.fromRGB(255, 255, 255)
+	VTM.TextScaled = true
+	VTM.TextSize = 14.000
+	VTM.TextWrapped = true
+	
+	UICorner_10.CornerRadius = UDim.new(0, 15)
+	UICorner_10.Parent = VTM
+	
+	-- Scripts:
+	
+	local function ONHIREJ_fake_script() -- WS.LocalScript 
+		local script = Instance.new('LocalScript', WS)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").WalkSpeed = script.Parent.Parent.WSS.Text
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(ONHIREJ_fake_script)()
+	local function RRKJ_fake_script() -- JP.LocalScript 
+		local script = Instance.new('LocalScript', JP)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").JumpPower = script.Parent.Parent.JPP.Text
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(RRKJ_fake_script)()
+	local function NTONKK_fake_script() -- NFD.LocalScript 
+		local script = Instance.new('LocalScript', NFD)
+	
+		local function onSpeed()
+			local fall = game.Players.LocalPlayer.Character:FindFirstChild("FallDamageScript")
+			fall:Destroy()
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(NTONKK_fake_script)()
+	local function JCJWH_fake_script() -- MAP.LocalScript 
+		local script = Instance.new('LocalScript', MAP)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame = game.Workspace.Island.Grass.CFrame
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	
+	end
+	coroutine.wrap(JCJWH_fake_script)()
+	local function PSNR_fake_script() -- LOBBY.LocalScript 
+		local script = Instance.new('LocalScript', LOBBY)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame = game.Workspace.WeatherMachine.Button.CFrame
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	
+	end
+	coroutine.wrap(PSNR_fake_script)()
+	local function TJOR_fake_script() -- VTM.LocalScript 
+		local script = Instance.new('LocalScript', VTM)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.PlayerGui.MainGui.MapVotePage.Visible = true
+			wait(10)
+			game.Players.LocalPlayer.PlayerGui.MainGui.MapVotePage.Visible = false
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(TJOR_fake_script)()
+		
+	end
+	
+	script.Parent.Activated:Connect(g)
+end
+coroutine.wrap(CIXNLC_fake_script)()
+local function VNNKAC_fake_script() -- B_2.LocalScript 
+	local script = Instance.new('LocalScript', B_2)
+
+	local function g()
+	
+	local PL2 = Instance.new("ScreenGui")
+	local Hold = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local NameHold = Instance.new("TextLabel")
+	local UICorner_2 = Instance.new("UICorner")
+	local WS = Instance.new("TextButton")
+	local UICorner_3 = Instance.new("UICorner")
+	local WSS = Instance.new("TextBox")
+	local UICorner_4 = Instance.new("UICorner")
+	local JPP = Instance.new("TextBox")
+	local UICorner_5 = Instance.new("UICorner")
+	local JP = Instance.new("TextButton")
+	local UICorner_6 = Instance.new("UICorner")
+	local TPP = Instance.new("TextButton")
+	local UICorner_7 = Instance.new("UICorner")
+	local GS = Instance.new("TextButton")
+	local UICorner_8 = Instance.new("UICorner")
+	local CS = Instance.new("TextButton")
+	local UICorner_9 = Instance.new("UICorner")
+	local TextLabel = Instance.new("TextLabel")
+	
+	--Properties:
+	
+	PL2.Name = "PL2"
+	PL2.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+	PL2.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	PL2.ResetOnSpawn = false
+	
+	Hold.Name = "Hold"
+	Hold.Parent = PL2
+	Hold.BackgroundColor3 = Color3.fromRGB(30, 47, 53)
+	Hold.Position = UDim2.new(0.28678304, 0, 0.261183262, 0)
+	Hold.Size = UDim2.new(0, 512, 0, 330)
+	Hold.Active = true
+	Hold.Draggable = true
+	
+	UICorner.CornerRadius = UDim.new(0, 15)
+	UICorner.Parent = Hold
+	
+	NameHold.Name = "NameHold"
+	NameHold.Parent = Hold
+	NameHold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.BackgroundTransparency = 0.950
+	NameHold.Size = UDim2.new(0, 512, 0, 37)
+	NameHold.Font = Enum.Font.SciFi
+	NameHold.Text = "Prison Life 2"
+	NameHold.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.TextScaled = true
+	NameHold.TextSize = 14.000
+	NameHold.TextWrapped = true
+	
+	UICorner_2.CornerRadius = UDim.new(0, 15)
+	UICorner_2.Parent = NameHold
+	
+	WS.Name = "WS"
+	WS.Parent = Hold
+	WS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WS.BackgroundTransparency = 0.950
+	WS.Position = UDim2.new(0.015625, 0, 0.13636364, 0)
+	WS.Size = UDim2.new(0, 200, 0, 50)
+	WS.Font = Enum.Font.SciFi
+	WS.Text = "WalkSpeed"
+	WS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WS.TextScaled = true
+	WS.TextSize = 14.000
+	WS.TextWrapped = true
+	
+	UICorner_3.CornerRadius = UDim.new(0, 15)
+	UICorner_3.Parent = WS
+	
+	WSS.Name = "WSS"
+	WSS.Parent = Hold
+	WSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.BackgroundTransparency = 0.950
+	WSS.Position = UDim2.new(0.419921875, 0, 0.13636364, 0)
+	WSS.Size = UDim2.new(0, 44, 0, 50)
+	WSS.Font = Enum.Font.SciFi
+	WSS.PlaceholderText = "Enter WalkSpeed"
+	WSS.Text = ""
+	WSS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.TextScaled = true
+	WSS.TextSize = 14.000
+	WSS.TextWrapped = true
+	
+	UICorner_4.CornerRadius = UDim.new(0, 15)
+	UICorner_4.Parent = WSS
+	
+	JPP.Name = "JPP"
+	JPP.Parent = Hold
+	JPP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.BackgroundTransparency = 0.950
+	JPP.Position = UDim2.new(0.419921875, 0, 0.312121212, 0)
+	JPP.Size = UDim2.new(0, 44, 0, 50)
+	JPP.Font = Enum.Font.SciFi
+	JPP.PlaceholderText = "Enter JumpPower"
+	JPP.Text = ""
+	JPP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.TextScaled = true
+	JPP.TextSize = 14.000
+	JPP.TextWrapped = true
+	
+	UICorner_5.CornerRadius = UDim.new(0, 15)
+	UICorner_5.Parent = JPP
+	
+	JP.Name = "JP"
+	JP.Parent = Hold
+	JP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JP.BackgroundTransparency = 0.950
+	JP.Position = UDim2.new(0.015625, 0, 0.312121212, 0)
+	JP.Size = UDim2.new(0, 200, 0, 50)
+	JP.Font = Enum.Font.SciFi
+	JP.Text = "JumpPower"
+	JP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JP.TextScaled = true
+	JP.TextSize = 14.000
+	JP.TextWrapped = true
+	
+	UICorner_6.CornerRadius = UDim.new(0, 15)
+	UICorner_6.Parent = JP
+	
+	TPP.Name = "TPP"
+	TPP.Parent = Hold
+	TPP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TPP.BackgroundTransparency = 0.950
+	TPP.Position = UDim2.new(0.015625, 0, 0.4909091, 0)
+	TPP.Size = UDim2.new(0, 495, 0, 118)
+	TPP.Font = Enum.Font.SciFi
+	TPP.Text = "TeleportToPrison"
+	TPP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TPP.TextScaled = true
+	TPP.TextSize = 14.000
+	TPP.TextWrapped = true
+	
+	UICorner_7.CornerRadius = UDim.new(0, 15)
+	UICorner_7.Parent = TPP
+	
+	GS.Name = "GS"
+	GS.Parent = Hold
+	GS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	GS.BackgroundTransparency = 0.950
+	GS.Position = UDim2.new(0.533203125, 0, 0.13636364, 0)
+	GS.Size = UDim2.new(0, 230, 0, 50)
+	GS.Font = Enum.Font.SciFi
+	GS.Text = "GUARDS SPAWN"
+	GS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	GS.TextScaled = true
+	GS.TextSize = 14.000
+	GS.TextWrapped = true
+	
+	UICorner_8.CornerRadius = UDim.new(0, 15)
+	UICorner_8.Parent = GS
+	
+	CS.Name = "CS"
+	CS.Parent = Hold
+	CS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	CS.BackgroundTransparency = 0.950
+	CS.Position = UDim2.new(0.533203125, 0, 0.312121212, 0)
+	CS.Size = UDim2.new(0, 230, 0, 50)
+	CS.Font = Enum.Font.SciFi
+	CS.Text = "CRIMINALS SPAWN"
+	CS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	CS.TextScaled = true
+	CS.TextSize = 14.000
+	CS.TextWrapped = true
+	
+	UICorner_9.CornerRadius = UDim.new(0, 15)
+	UICorner_9.Parent = CS
+	
+	TextLabel.Parent = Hold
+	TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.BackgroundTransparency = 1.000
+	TextLabel.Position = UDim2.new(0, 0, 0.848484874, 0)
+	TextLabel.Size = UDim2.new(0, 363, 0, 50)
+	TextLabel.Font = Enum.Font.SciFi
+	TextLabel.Text = "Credits: Owner and Creator: Bisu"
+	TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.TextSize = 14.000
+	
+	-- Scripts:
+	
+	local function XSWBVEZ_fake_script() -- WS.LocalScript 
+		local script = Instance.new('LocalScript', WS)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").WalkSpeed = script.Parent.Parent.WSS.Text
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(XSWBVEZ_fake_script)()
+	local function DNXVVIL_fake_script() -- JP.LocalScript 
+		local script = Instance.new('LocalScript', JP)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").JumpPower = script.Parent.Parent.JPP.Text
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(DNXVVIL_fake_script)()
+	local function QRQBTK_fake_script() -- TPP.LocalScript 
+		local script = Instance.new('LocalScript', TPP)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame = game.Workspace["Desks"].Model.Part.CFrame
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(QRQBTK_fake_script)()
+	local function AJOPRGA_fake_script() -- GS.LocalScript 
+		local script = Instance.new('LocalScript', GS)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame = game.Workspace["Prison_guardspawn"].spawn.CFrame
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	
+	end
+	coroutine.wrap(AJOPRGA_fake_script)()
+	local function ITDFRD_fake_script() -- CS.LocalScript 
+		local script = Instance.new('LocalScript', CS)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart").CFrame = game.Workspace["Criminals Spawn"].SpawnLocation.CFrame
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	end
+		coroutine.wrap(ITDFRD_fake_script)()
+	end
+	
+	script.Parent.Activated:Connect(g)
+	
+end
+coroutine.wrap(VNNKAC_fake_script)()
+local function SBAPIKC_fake_script() -- B_3.LocalScript 
+	local script = Instance.new('LocalScript', B_3)
+
+	local function get()
+	
+	local TOH = Instance.new("ScreenGui")
+	local Hold = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local NameHold = Instance.new("TextLabel")
+	local UICorner_2 = Instance.new("UICorner")
+	local WS = Instance.new("TextButton")
+	local UICorner_3 = Instance.new("UICorner")
+	local WSS = Instance.new("TextBox")
+	local UICorner_4 = Instance.new("UICorner")
+	local JPP = Instance.new("TextBox")
+	local UICorner_5 = Instance.new("UICorner")
+	local JP = Instance.new("TextButton")
+	local UICorner_6 = Instance.new("UICorner")
+	local TTF = Instance.new("TextButton")
+	local UICorner_7 = Instance.new("UICorner")
+	local KP = Instance.new("TextButton")
+	local UICorner_8 = Instance.new("UICorner")
+	local CG = Instance.new("TextButton")
+	local UICorner_9 = Instance.new("UICorner")
+	local TextLabel = Instance.new("TextLabel")
+	local Gears = Instance.new("Frame")
+	local UICorner_10 = Instance.new("UICorner")
+	local NameHold_2 = Instance.new("TextLabel")
+	local UICorner_11 = Instance.new("UICorner")
+	local G1 = Instance.new("TextButton")
+	local UICorner_12 = Instance.new("UICorner")
+	local G1_2 = Instance.new("TextButton")
+	local UICorner_13 = Instance.new("UICorner")
+	local G1_3 = Instance.new("TextButton")
+	local UICorner_14 = Instance.new("UICorner")
+	local G1_4 = Instance.new("TextButton")
+	local UICorner_15 = Instance.new("UICorner")
+	local G1_5 = Instance.new("TextButton")
+	local UICorner_16 = Instance.new("UICorner")
+	local G1_6 = Instance.new("TextButton")
+	local UICorner_17 = Instance.new("UICorner")
+	local G1_7 = Instance.new("TextButton")
+	local UICorner_18 = Instance.new("UICorner")
+	
+	--Properties:
+	
+	TOH.Name = "TOH"
+	TOH.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+	TOH.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	TOH.ResetOnSpawn = false
+	
+	Hold.Name = "Hold"
+	Hold.Parent = TOH
+	Hold.BackgroundColor3 = Color3.fromRGB(30, 47, 53)
+	Hold.Position = UDim2.new(0.28678304, 0, 0.261183262, 0)
+	Hold.Size = UDim2.new(0, 512, 0, 330)
+	Hold.Active = true
+	Hold.Draggable = true
+	
+	UICorner.CornerRadius = UDim.new(0, 15)
+	UICorner.Parent = Hold
+	
+	NameHold.Name = "NameHold"
+	NameHold.Parent = Hold
+	NameHold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.BackgroundTransparency = 0.950
+	NameHold.Size = UDim2.new(0, 512, 0, 37)
+	NameHold.Font = Enum.Font.SciFi
+	NameHold.Text = "Tower of Hell"
+	NameHold.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.TextScaled = true
+	NameHold.TextSize = 14.000
+	NameHold.TextWrapped = true
+	
+	UICorner_2.CornerRadius = UDim.new(0, 15)
+	UICorner_2.Parent = NameHold
+	
+	WS.Name = "WS"
+	WS.Parent = Hold
+	WS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WS.BackgroundTransparency = 0.950
+	WS.Position = UDim2.new(0.015625, 0, 0.13636364, 0)
+	WS.Size = UDim2.new(0, 200, 0, 50)
+	WS.Font = Enum.Font.SciFi
+	WS.Text = "WalkSpeed"
+	WS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WS.TextScaled = true
+	WS.TextSize = 14.000
+	WS.TextWrapped = true
+	
+	UICorner_3.CornerRadius = UDim.new(0, 15)
+	UICorner_3.Parent = WS
+	
+	WSS.Name = "WSS"
+	WSS.Parent = Hold
+	WSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.BackgroundTransparency = 0.950
+	WSS.Position = UDim2.new(0.419921875, 0, 0.13636364, 0)
+	WSS.Size = UDim2.new(0, 44, 0, 50)
+	WSS.Font = Enum.Font.SciFi
+	WSS.PlaceholderText = "Enter WalkSpeed"
+	WSS.Text = ""
+	WSS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.TextScaled = true
+	WSS.TextSize = 14.000
+	WSS.TextWrapped = true
+	
+	UICorner_4.CornerRadius = UDim.new(0, 15)
+	UICorner_4.Parent = WSS
+	
+	JPP.Name = "JPP"
+	JPP.Parent = Hold
+	JPP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.BackgroundTransparency = 0.950
+	JPP.Position = UDim2.new(0.419921875, 0, 0.312121212, 0)
+	JPP.Size = UDim2.new(0, 44, 0, 50)
+	JPP.Font = Enum.Font.SciFi
+	JPP.PlaceholderText = "Enter JumpPower"
+	JPP.Text = ""
+	JPP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.TextScaled = true
+	JPP.TextSize = 14.000
+	JPP.TextWrapped = true
+	
+	UICorner_5.CornerRadius = UDim.new(0, 15)
+	UICorner_5.Parent = JPP
+	
+	JP.Name = "JP"
+	JP.Parent = Hold
+	JP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JP.BackgroundTransparency = 0.950
+	JP.Position = UDim2.new(0.015625, 0, 0.312121212, 0)
+	JP.Size = UDim2.new(0, 200, 0, 50)
+	JP.Font = Enum.Font.SciFi
+	JP.Text = "JumpPower"
+	JP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JP.TextScaled = true
+	JP.TextSize = 14.000
+	JP.TextWrapped = true
+	
+	UICorner_6.CornerRadius = UDim.new(0, 15)
+	UICorner_6.Parent = JP
+	
+	TTF.Name = "TTF"
+	TTF.Parent = Hold
+	TTF.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TTF.BackgroundTransparency = 0.950
+	TTF.Position = UDim2.new(0.015625, 0, 0.4909091, 0)
+	TTF.Size = UDim2.new(0, 495, 0, 118)
+	TTF.Font = Enum.Font.SciFi
+	TTF.Text = "TeleportToFinish"
+	TTF.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TTF.TextScaled = true
+	TTF.TextSize = 14.000
+	TTF.TextWrapped = true
+	
+	UICorner_7.CornerRadius = UDim.new(0, 15)
+	UICorner_7.Parent = TTF
+	
+	KP.Name = "KP"
+	KP.Parent = Hold
+	KP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	KP.BackgroundTransparency = 0.950
+	KP.Position = UDim2.new(0.533203125, 0, 0.13636364, 0)
+	KP.Size = UDim2.new(0, 230, 0, 50)
+	KP.Font = Enum.Font.SciFi
+	KP.Text = "NoKillParts"
+	KP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	KP.TextScaled = true
+	KP.TextSize = 14.000
+	KP.TextWrapped = true
+	
+	UICorner_8.CornerRadius = UDim.new(0, 15)
+	UICorner_8.Parent = KP
+	
+	CG.Name = "CG"
+	CG.Parent = Hold
+	CG.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	CG.BackgroundTransparency = 0.950
+	CG.Position = UDim2.new(0.533203125, 0, 0.312121212, 0)
+	CG.Size = UDim2.new(0, 230, 0, 50)
+	CG.Font = Enum.Font.SciFi
+	CG.Text = "CHOOSE GEAR"
+	CG.TextColor3 = Color3.fromRGB(255, 255, 255)
+	CG.TextScaled = true
+	CG.TextSize = 14.000
+	CG.TextWrapped = true
+	
+	UICorner_9.CornerRadius = UDim.new(0, 15)
+	UICorner_9.Parent = CG
+	
+	TextLabel.Parent = Hold
+	TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.BackgroundTransparency = 1.000
+	TextLabel.Position = UDim2.new(0, 0, 0.848484874, 0)
+	TextLabel.Size = UDim2.new(0, 363, 0, 50)
+	TextLabel.Font = Enum.Font.SciFi
+	TextLabel.Text = "Credits: Owner and Creator: Bisu"
+	TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.TextSize = 14.000
+	
+	Gears.Name = "Gears"
+	Gears.Parent = TOH
+	Gears.BackgroundColor3 = Color3.fromRGB(30, 47, 53)
+	Gears.Position = UDim2.new(0.297589362, 0, 0.331890345, 0)
+	Gears.Size = UDim2.new(0, 486, 0, 230)
+	Gears.Visible = false
+	Gears.Active = true
+	Gears.Draggable = true
+	
+	UICorner_10.CornerRadius = UDim.new(0, 15)
+	UICorner_10.Parent = Gears
+	
+	NameHold_2.Name = "NameHold"
+	NameHold_2.Parent = Gears
+	NameHold_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold_2.BackgroundTransparency = 0.950
+	NameHold_2.Size = UDim2.new(0, 486, 0, 37)
+	NameHold_2.Font = Enum.Font.SciFi
+	NameHold_2.Text = "Tower of Hell Gears"
+	NameHold_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold_2.TextScaled = true
+	NameHold_2.TextSize = 14.000
+	NameHold_2.TextWrapped = true
+	
+	UICorner_11.CornerRadius = UDim.new(0, 15)
+	UICorner_11.Parent = NameHold_2
+	
+	G1.Name = "G1"
+	G1.Parent = Gears
+	G1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	G1.BackgroundTransparency = 0.950
+	G1.Position = UDim2.new(0.0187998321, 0, 0.191949546, 0)
+	G1.Size = UDim2.new(0, 230, 0, 48)
+	G1.Font = Enum.Font.SciFi
+	G1.Text = "Speed Coil"
+	G1.TextColor3 = Color3.fromRGB(255, 255, 255)
+	G1.TextScaled = true
+	G1.TextSize = 14.000
+	G1.TextWrapped = true
+	
+	UICorner_12.CornerRadius = UDim.new(0, 15)
+	UICorner_12.Parent = G1
+	
+	G1_2.Name = "G1"
+	G1_2.Parent = Gears
+	G1_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	G1_2.BackgroundTransparency = 0.950
+	G1_2.Position = UDim2.new(0.0187998321, 0, 0.445168436, 0)
+	G1_2.Size = UDim2.new(0, 230, 0, 48)
+	G1_2.Font = Enum.Font.SciFi
+	G1_2.Text = "Gravity Coil"
+	G1_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+	G1_2.TextScaled = true
+	G1_2.TextSize = 14.000
+	G1_2.TextWrapped = true
+	
+	UICorner_13.CornerRadius = UDim.new(0, 15)
+	UICorner_13.Parent = G1_2
+	
+	G1_3.Name = "G1"
+	G1_3.Parent = Gears
+	G1_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	G1_3.BackgroundTransparency = 0.950
+	G1_3.Position = UDim2.new(0.0187998321, 0, 0.711262822, 0)
+	G1_3.Size = UDim2.new(0, 230, 0, 48)
+	G1_3.Font = Enum.Font.SciFi
+	G1_3.Text = "Fusion Coil"
+	G1_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+	G1_3.TextScaled = true
+	G1_3.TextSize = 14.000
+	G1_3.TextWrapped = true
+	
+	UICorner_14.CornerRadius = UDim.new(0, 15)
+	UICorner_14.Parent = G1_3
+	
+	G1_4.Name = "G1"
+	G1_4.Parent = Gears
+	G1_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	G1_4.BackgroundTransparency = 0.950
+	G1_4.Position = UDim2.new(0.524972677, 0, 0.191949546, 0)
+	G1_4.Size = UDim2.new(0, 218, 0, 48)
+	G1_4.Font = Enum.Font.SciFi
+	G1_4.Text = "Trowel"
+	G1_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+	G1_4.TextScaled = true
+	G1_4.TextSize = 14.000
+	G1_4.TextWrapped = true
+	
+	UICorner_15.CornerRadius = UDim.new(0, 15)
+	UICorner_15.Parent = G1_4
+	
+	G1_5.Name = "G1"
+	G1_5.Parent = Gears
+	G1_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	G1_5.BackgroundTransparency = 0.950
+	G1_5.Position = UDim2.new(0.524972677, 0, 0.445168436, 0)
+	G1_5.Size = UDim2.new(0, 218, 0, 48)
+	G1_5.Font = Enum.Font.SciFi
+	G1_5.Text = "Hook"
+	G1_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+	G1_5.TextScaled = true
+	G1_5.TextSize = 14.000
+	G1_5.TextWrapped = true
+	
+	UICorner_16.CornerRadius = UDim.new(0, 15)
+	UICorner_16.Parent = G1_5
+	
+	G1_6.Name = "G1"
+	G1_6.Parent = Gears
+	G1_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	G1_6.BackgroundTransparency = 0.950
+	G1_6.Position = UDim2.new(0.524972677, 0, 0.711262822, 0)
+	G1_6.Size = UDim2.new(0, 218, 0, 48)
+	G1_6.Font = Enum.Font.SciFi
+	G1_6.Text = "Hourglass"
+	G1_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+	G1_6.TextScaled = true
+	G1_6.TextSize = 14.000
+	G1_6.TextWrapped = true
+	
+	UICorner_17.CornerRadius = UDim.new(0, 15)
+	UICorner_17.Parent = G1_6
+	
+	G1_7.Name = "G1"
+	G1_7.Parent = Gears
+	G1_7.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	G1_7.BackgroundTransparency = 0.500
+	G1_7.Position = UDim2.new(0.909746349, 0, 0, 0)
+	G1_7.Size = UDim2.new(0, 43, 0, 36)
+	G1_7.Font = Enum.Font.SciFi
+	G1_7.Text = "X"
+	G1_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+	G1_7.TextScaled = true
+	G1_7.TextSize = 14.000
+	G1_7.TextWrapped = true
+	
+	UICorner_18.CornerRadius = UDim.new(0, 15)
+	UICorner_18.Parent = G1_7
+	
+	-- Scripts:
+	
+	local function NTRYAH_fake_script() -- WS.LocalScript 
+		local script = Instance.new('LocalScript', WS)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").WalkSpeed = script.Parent.Parent.WSS.Text
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(NTRYAH_fake_script)()
+	local function KVDDEK_fake_script() -- JP.LocalScript 
+		local script = Instance.new('LocalScript', JP)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").JumpPower = script.Parent.Parent.JPP.Text
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(KVDDEK_fake_script)()
+	local function UGKIDJV_fake_script() -- TTF.LocalScript 
+		local script = Instance.new('LocalScript', TTF)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.tower.finishes.Finish.CFrame
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	end
+	coroutine.wrap(UGKIDJV_fake_script)()
+	local function WMWPTMY_fake_script() -- KP.LocalScript 
+		local script = Instance.new('LocalScript', KP)
+	
+		local function onSpeed()
+			game.Players.LocalPlayer.Character.KillScript:Destroy()
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	
+	end
+	coroutine.wrap(WMWPTMY_fake_script)()
+	local function TDIP_fake_script() -- CG.LocalScript 
+		local script = Instance.new('LocalScript', CG)
+	
+		local function onSpeed()
+			script.Parent.Parent.Parent.Gears.Visible = true
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	end
+	coroutine.wrap(TDIP_fake_script)()
+	local function PFGZYD_fake_script() -- G1.LocalScript 
+		local script = Instance.new('LocalScript', G1)
+	
+		local function onSpeed()
+			game.ReplicatedStorage.Gear.speed:Clone().Parent = game.Players.LocalPlayer.Backpack
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	end
+	coroutine.wrap(PFGZYD_fake_script)()
+	local function NWEFCFD_fake_script() -- G1_2.LocalScript 
+		local script = Instance.new('LocalScript', G1_2)
+	
+		local function onSpeed()
+			game.ReplicatedStorage.Gear.gravity:Clone().Parent = game.Players.LocalPlayer.Backpack
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	end
+	coroutine.wrap(NWEFCFD_fake_script)()
+	local function UNQYP_fake_script() -- G1_3.LocalScript 
+		local script = Instance.new('LocalScript', G1_3)
+	
+		local function onSpeed()
+			game.ReplicatedStorage.Gear.fusion:Clone().Parent = game.Players.LocalPlayer.Backpack
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	end
+	coroutine.wrap(UNQYP_fake_script)()
+	local function CDBGR_fake_script() -- G1_4.LocalScript 
+		local script = Instance.new('LocalScript', G1_4)
+	
+		local function onSpeed()
+			game.ReplicatedStorage.Gear.trowel:Clone().Parent = game.Players.LocalPlayer.Backpack
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	end
+	coroutine.wrap(CDBGR_fake_script)()
+	local function VUWE_fake_script() -- G1_5.LocalScript 
+		local script = Instance.new('LocalScript', G1_5)
+	
+		local function onSpeed()
+			game.ReplicatedStorage.Gear.hook:Clone().Parent = game.Players.LocalPlayer.Backpack
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	end
+	coroutine.wrap(VUWE_fake_script)()
+	local function LFYSVPO_fake_script() -- G1_6.LocalScript 
+		local script = Instance.new('LocalScript', G1_6)
+	
+		local function onSpeed()
+			game.ReplicatedStorage.Gear.hourglass:Clone().Parent = game.Players.LocalPlayer.Backpack
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	end
+	coroutine.wrap(LFYSVPO_fake_script)()
+	local function YWKDFAU_fake_script() -- G1_7.LocalScript 
+		local script = Instance.new('LocalScript', G1_7)
+	
+		local function onSpeed()
+			script.Parent.Parent.Visible = false
+		end
+	
+		script.Parent.Activated:Connect(onSpeed)
+	
+	end
+		coroutine.wrap(YWKDFAU_fake_script)()
+	end
+	
+	script.Parent.Activated:Connect(get)
+	
+end
+coroutine.wrap(SBAPIKC_fake_script)()
+local function UVLQP_fake_script() -- B_4.LocalScript 
+	local script = Instance.new('LocalScript', B_4)
+
+	local function g()
+	
+	local DPTB4 = Instance.new("ScreenGui")
+	local Hold = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local NameHold = Instance.new("TextLabel")
+	local UICorner_2 = Instance.new("UICorner")
+	local WS = Instance.new("TextButton")
+	local UICorner_3 = Instance.new("UICorner")
+	local WSS = Instance.new("TextBox")
+	local UICorner_4 = Instance.new("UICorner")
+	local JPP = Instance.new("TextBox")
+	local UICorner_5 = Instance.new("UICorner")
+	local JP = Instance.new("TextButton")
+	local UICorner_6 = Instance.new("UICorner")
+	local SPAWN = Instance.new("TextButton")
+	local UICorner_7 = Instance.new("UICorner")
+	local BUT = Instance.new("TextButton")
+	local UICorner_8 = Instance.new("UICorner")
+	local TextLabel = Instance.new("TextLabel")
+	local X3 = Instance.new("TextButton")
+	local UICorner_9 = Instance.new("UICorner")
+	local MurdESP = Instance.new("BillboardGui")
+	local TextLabel_2 = Instance.new("TextLabel")
+	
+	--Properties:
+	
+	DPTB4.Name = "DPTB4"
+	DPTB4.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+	DPTB4.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	DPTB4.ResetOnSpawn = false
+	
+	Hold.Name = "Hold"
+	Hold.Parent = DPTB4
+	Hold.Active = true
+	Hold.BackgroundColor3 = Color3.fromRGB(30, 47, 53)
+	Hold.Draggable = true
+	Hold.Position = UDim2.new(0.28678304, 218, 0.261183262, 57)
+	Hold.Size = UDim2.new(0, 512, 0, 330)
+	
+	UICorner.CornerRadius = UDim.new(0, 15)
+	UICorner.Parent = Hold
+	
+	NameHold.Name = "NameHold"
+	NameHold.Parent = Hold
+	NameHold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.BackgroundTransparency = 0.950
+	NameHold.Size = UDim2.new(0, 512, 0, 37)
+	NameHold.Font = Enum.Font.SciFi
+	NameHold.Text = "☄️Don't Press The Button 4"
+	NameHold.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.TextScaled = true
+	NameHold.TextSize = 14.000
+	NameHold.TextWrapped = true
+	
+	UICorner_2.CornerRadius = UDim.new(0, 15)
+	UICorner_2.Parent = NameHold
+	
+	WS.Name = "WS"
+	WS.Parent = Hold
+	WS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WS.BackgroundTransparency = 0.950
+	WS.Position = UDim2.new(0.015625, 0, 0.13636364, 0)
+	WS.Size = UDim2.new(0, 200, 0, 50)
+	WS.Font = Enum.Font.SciFi
+	WS.Text = "WalkSpeed"
+	WS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WS.TextScaled = true
+	WS.TextSize = 14.000
+	WS.TextWrapped = true
+	
+	UICorner_3.CornerRadius = UDim.new(0, 15)
+	UICorner_3.Parent = WS
+	
+	WSS.Name = "WSS"
+	WSS.Parent = Hold
+	WSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.BackgroundTransparency = 0.950
+	WSS.Position = UDim2.new(0.419921875, 0, 0.13636364, 0)
+	WSS.Size = UDim2.new(0, 44, 0, 50)
+	WSS.Font = Enum.Font.SciFi
+	WSS.PlaceholderText = "Enter WalkSpeed"
+	WSS.Text = ""
+	WSS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.TextScaled = true
+	WSS.TextSize = 14.000
+	WSS.TextWrapped = true
+	
+	UICorner_4.CornerRadius = UDim.new(0, 15)
+	UICorner_4.Parent = WSS
+	
+	JPP.Name = "JPP"
+	JPP.Parent = Hold
+	JPP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.BackgroundTransparency = 0.950
+	JPP.Position = UDim2.new(0.419921875, 0, 0.312121212, 0)
+	JPP.Size = UDim2.new(0, 44, 0, 50)
+	JPP.Font = Enum.Font.SciFi
+	JPP.PlaceholderText = "Enter JumpPower"
+	JPP.Text = ""
+	JPP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.TextScaled = true
+	JPP.TextSize = 14.000
+	JPP.TextWrapped = true
+	
+	UICorner_5.CornerRadius = UDim.new(0, 15)
+	UICorner_5.Parent = JPP
+	
+	JP.Name = "JP"
+	JP.Parent = Hold
+	JP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JP.BackgroundTransparency = 0.950
+	JP.Position = UDim2.new(0.015625, 0, 0.312121212, 0)
+	JP.Size = UDim2.new(0, 200, 0, 50)
+	JP.Font = Enum.Font.SciFi
+	JP.Text = "JumpPower"
+	JP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JP.TextScaled = true
+	JP.TextSize = 14.000
+	JP.TextWrapped = true
+	
+	UICorner_6.CornerRadius = UDim.new(0, 15)
+	UICorner_6.Parent = JP
+	
+	SPAWN.Name = "SPAWN"
+	SPAWN.Parent = Hold
+	SPAWN.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	SPAWN.BackgroundTransparency = 0.950
+	SPAWN.Position = UDim2.new(0.533203125, 0, 0.13636364, 0)
+	SPAWN.Size = UDim2.new(0, 230, 0, 50)
+	SPAWN.Font = Enum.Font.SciFi
+	SPAWN.Text = "SPAWN"
+	SPAWN.TextColor3 = Color3.fromRGB(255, 255, 255)
+	SPAWN.TextScaled = true
+	SPAWN.TextSize = 14.000
+	SPAWN.TextWrapped = true
+	
+	UICorner_7.CornerRadius = UDim.new(0, 15)
+	UICorner_7.Parent = SPAWN
+	
+	BUT.Name = "BUT"
+	BUT.Parent = Hold
+	BUT.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	BUT.BackgroundTransparency = 0.950
+	BUT.Position = UDim2.new(0.533203125, 0, 0.312121212, 0)
+	BUT.Size = UDim2.new(0, 230, 0, 50)
+	BUT.Font = Enum.Font.SciFi
+	BUT.Text = "BUTTON"
+	BUT.TextColor3 = Color3.fromRGB(255, 255, 255)
+	BUT.TextScaled = true
+	BUT.TextSize = 14.000
+	BUT.TextWrapped = true
+	
+	UICorner_8.CornerRadius = UDim.new(0, 15)
+	UICorner_8.Parent = BUT
+	
+	TextLabel.Parent = Hold
+	TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.BackgroundTransparency = 1.000
+	TextLabel.Position = UDim2.new(0, 0, 0.848484874, 0)
+	TextLabel.Size = UDim2.new(0, 363, 0, 50)
+	TextLabel.Font = Enum.Font.SciFi
+	TextLabel.Text = "Credits: Owner and Creator: Bisu"
+	TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.TextSize = 14.000
+	
+	X3.Name = "X3"
+	X3.Parent = Hold
+	X3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	X3.BackgroundTransparency = 0.950
+	X3.Position = UDim2.new(0.015625, 0, 0.4909091, 0)
+	X3.Size = UDim2.new(0, 495, 0, 110)
+	X3.Font = Enum.Font.SciFi
+	X3.Text = "CLICK TP"
+	X3.TextColor3 = Color3.fromRGB(255, 255, 255)
+	X3.TextScaled = true
+	X3.TextSize = 14.000
+	X3.TextWrapped = true
+	
+	UICorner_9.CornerRadius = UDim.new(0, 15)
+	UICorner_9.Parent = X3
+	
+	MurdESP.Name = "MurdESP"
+	MurdESP.Parent = X3
+	MurdESP.AlwaysOnTop = true
+	MurdESP.Size = UDim2.new(3, 0, 2, 0)
+	MurdESP.SizeOffset = Vector2.new(-0.5, 0.5)
+	MurdESP.StudsOffset = Vector3.new(0, 3, 0)
+	
+	TextLabel_2.Parent = MurdESP
+	TextLabel_2.BackgroundTransparency = 1.000
+	TextLabel_2.Position = UDim2.new(0.5, 0, 0.100000001, 0)
+	TextLabel_2.Size = UDim2.new(1, 0, 1, 0)
+	TextLabel_2.Font = Enum.Font.ArialBold
+	TextLabel_2.Text = "Murderer"
+	TextLabel_2.TextColor3 = Color3.fromRGB(255, 0, 0)
+	TextLabel_2.TextScaled = true
+	TextLabel_2.TextStrokeTransparency = 0.000
+	TextLabel_2.TextWrapped = true
+	
+	-- Scripts:
+	
+	local function QBTHQZ_fake_script() -- WS.LocalScript 
+		local script = Instance.new('LocalScript', WS)
+	
+		local function speed()
+			local h = game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+			h.WalkSpeed = script.Parent.Parent.WSS.Text
+		end
+	
+		script.Parent.Activated:Connect(speed)
+	end
+	coroutine.wrap(QBTHQZ_fake_script)()
+	local function KCMA_fake_script() -- JP.LocalScript 
+		local script = Instance.new('LocalScript', JP)
+	
+		local function speed()
+			local h = game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+			h.JumpPower = script.Parent.Parent.JPP.Text
+		end
+	
+		script.Parent.Activated:Connect(speed)
+	end
+	coroutine.wrap(KCMA_fake_script)()
+	local function PCHTSL_fake_script() -- SPAWN.LocalScript 
+		local script = Instance.new('LocalScript', SPAWN)
+	
+		local function tp()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.TeleportersSpawn.Part.CFrame
+		end
+	
+		script.Parent.Activated:Connect(tp)
+	end
+	coroutine.wrap(PCHTSL_fake_script)()
+	local function EFFO_fake_script() -- BUT.LocalScript 
+		local script = Instance.new('LocalScript', BUT)
+	
+		local function tp()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.ButtonPresser.Button.CFrame
+		end
+	
+		script.Parent.Activated:Connect(tp)
+	end
+	coroutine.wrap(EFFO_fake_script)()
+	local function HXLV_fake_script() -- X3.LocalScript 
+		local script = Instance.new('LocalScript', X3)
+	
+		script.Parent.MouseButton1Click:Connect(function()
+			mouse = game.Players.LocalPlayer:GetMouse()
+			tool = Instance.new("Tool")
+			tool.RequiresHandle = false
+			tool.Name = "Click Teleport"
+			tool.Activated:connect(function()
+				local pos = mouse.Hit+Vector3.new(0,2.5,0)
+				pos = CFrame.new(pos.X,pos.Y,pos.Z)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
+			end)
+			tool.Parent = game.Players.LocalPlayer.Backpack
+		end)
+	end
+	coroutine.wrap(HXLV_fake_script)()
+		
+	end
+	
+	script.Parent.Activated:Connect(g)
+end
+coroutine.wrap(UVLQP_fake_script)()
+local function BQIR_fake_script() -- B_5.LocalScript 
+	local script = Instance.new('LocalScript', B_5)
+
+	local function g()
+	
+	local DB = Instance.new("ScreenGui")
+	local Hold = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local NameHold = Instance.new("TextLabel")
+	local UICorner_2 = Instance.new("UICorner")
+	local WS = Instance.new("TextButton")
+	local UICorner_3 = Instance.new("UICorner")
+	local WSS = Instance.new("TextBox")
+	local UICorner_4 = Instance.new("UICorner")
+	local JPP = Instance.new("TextBox")
+	local UICorner_5 = Instance.new("UICorner")
+	local JP = Instance.new("TextButton")
+	local UICorner_6 = Instance.new("UICorner")
+	local BUT = Instance.new("TextButton")
+	local UICorner_7 = Instance.new("UICorner")
+	local TextLabel = Instance.new("TextLabel")
+	local X3 = Instance.new("TextButton")
+	local UICorner_8 = Instance.new("UICorner")
+	local MurdESP = Instance.new("BillboardGui")
+	local TextLabel_2 = Instance.new("TextLabel")
+	local Hold1 = Instance.new("Frame")
+	local UICorner_9 = Instance.new("UICorner")
+	local TextButton = Instance.new("TextButton")
+	local UICorner_10 = Instance.new("UICorner")
+	local TextButton_2 = Instance.new("TextButton")
+	local UICorner_11 = Instance.new("UICorner")
+	local TextButton_3 = Instance.new("TextButton")
+	local UICorner_12 = Instance.new("UICorner")
+	local TextButton_4 = Instance.new("TextButton")
+	local UICorner_13 = Instance.new("UICorner")
+	local NameHold_2 = Instance.new("TextLabel")
+	local UICorner_14 = Instance.new("UICorner")
+	local TextLabel_3 = Instance.new("TextLabel")
+	local TextButton_5 = Instance.new("TextButton")
+	local UICorner_15 = Instance.new("UICorner")
+	local TextButton_6 = Instance.new("TextButton")
+	local UICorner_16 = Instance.new("UICorner")
+	
+	--Properties:
+	
+	DB.Name = "DB"
+	DB.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+	DB.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	DB.ResetOnSpawn = false
+	
+	Hold.Name = "Hold"
+	Hold.Parent = DB
+	Hold.Active = true
+	Hold.BackgroundColor3 = Color3.fromRGB(30, 47, 53)
+	Hold.Draggable = true
+	Hold.Position = UDim2.new(0.28678304, 60, 0.261183262, -36)
+	Hold.Size = UDim2.new(0, 512, 0, 330)
+	
+	UICorner.CornerRadius = UDim.new(0, 15)
+	UICorner.Parent = Hold
+	
+	NameHold.Name = "NameHold"
+	NameHold.Parent = Hold
+	NameHold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.BackgroundTransparency = 0.950
+	NameHold.Size = UDim2.new(0, 512, 0, 37)
+	NameHold.Font = Enum.Font.SciFi
+	NameHold.Text = "Doomspire Brickbattle"
+	NameHold.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold.TextScaled = true
+	NameHold.TextSize = 14.000
+	NameHold.TextWrapped = true
+	
+	UICorner_2.CornerRadius = UDim.new(0, 15)
+	UICorner_2.Parent = NameHold
+	
+	WS.Name = "WS"
+	WS.Parent = Hold
+	WS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WS.BackgroundTransparency = 0.950
+	WS.Position = UDim2.new(0.015625, 0, 0.13636364, 0)
+	WS.Size = UDim2.new(0, 200, 0, 50)
+	WS.Font = Enum.Font.SciFi
+	WS.Text = "WalkSpeed"
+	WS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WS.TextScaled = true
+	WS.TextSize = 14.000
+	WS.TextWrapped = true
+	
+	UICorner_3.CornerRadius = UDim.new(0, 15)
+	UICorner_3.Parent = WS
+	
+	WSS.Name = "WSS"
+	WSS.Parent = Hold
+	WSS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.BackgroundTransparency = 0.950
+	WSS.Position = UDim2.new(0.419921875, 0, 0.13636364, 0)
+	WSS.Size = UDim2.new(0, 44, 0, 50)
+	WSS.Font = Enum.Font.SciFi
+	WSS.PlaceholderText = "Enter WalkSpeed"
+	WSS.Text = ""
+	WSS.TextColor3 = Color3.fromRGB(255, 255, 255)
+	WSS.TextScaled = true
+	WSS.TextSize = 14.000
+	WSS.TextWrapped = true
+	
+	UICorner_4.CornerRadius = UDim.new(0, 15)
+	UICorner_4.Parent = WSS
+	
+	JPP.Name = "JPP"
+	JPP.Parent = Hold
+	JPP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.BackgroundTransparency = 0.950
+	JPP.Position = UDim2.new(0.419921875, 0, 0.312121212, 0)
+	JPP.Size = UDim2.new(0, 44, 0, 50)
+	JPP.Font = Enum.Font.SciFi
+	JPP.PlaceholderText = "Enter JumpPower"
+	JPP.Text = ""
+	JPP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JPP.TextScaled = true
+	JPP.TextSize = 14.000
+	JPP.TextWrapped = true
+	
+	UICorner_5.CornerRadius = UDim.new(0, 15)
+	UICorner_5.Parent = JPP
+	
+	JP.Name = "JP"
+	JP.Parent = Hold
+	JP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	JP.BackgroundTransparency = 0.950
+	JP.Position = UDim2.new(0.015625, 0, 0.312121212, 0)
+	JP.Size = UDim2.new(0, 200, 0, 50)
+	JP.Font = Enum.Font.SciFi
+	JP.Text = "JumpPower"
+	JP.TextColor3 = Color3.fromRGB(255, 255, 255)
+	JP.TextScaled = true
+	JP.TextSize = 14.000
+	JP.TextWrapped = true
+	
+	UICorner_6.CornerRadius = UDim.new(0, 15)
+	UICorner_6.Parent = JP
+	
+	BUT.Name = "BUT"
+	BUT.Parent = Hold
+	BUT.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	BUT.BackgroundTransparency = 0.950
+	BUT.Position = UDim2.new(0.533203125, 0, 0.13636364, 0)
+	BUT.Size = UDim2.new(0, 230, 0, 108)
+	BUT.Font = Enum.Font.SciFi
+	BUT.Text = "TELEPORTS"
+	BUT.TextColor3 = Color3.fromRGB(255, 255, 255)
+	BUT.TextScaled = true
+	BUT.TextSize = 14.000
+	BUT.TextWrapped = true
+	
+	UICorner_7.CornerRadius = UDim.new(0, 15)
+	UICorner_7.Parent = BUT
+	
+	TextLabel.Parent = Hold
+	TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.BackgroundTransparency = 1.000
+	TextLabel.Position = UDim2.new(0, 0, 0.848484874, 0)
+	TextLabel.Size = UDim2.new(0, 363, 0, 50)
+	TextLabel.Font = Enum.Font.SciFi
+	TextLabel.Text = "Credits: Owner and Creator: Bisu"
+	TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.TextSize = 14.000
+	
+	X3.Name = "X3"
+	X3.Parent = Hold
+	X3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	X3.BackgroundTransparency = 0.950
+	X3.Position = UDim2.new(0.015625, 0, 0.4909091, 0)
+	X3.Size = UDim2.new(0, 495, 0, 110)
+	X3.Font = Enum.Font.SciFi
+	X3.Text = "CLICK TP"
+	X3.TextColor3 = Color3.fromRGB(255, 255, 255)
+	X3.TextScaled = true
+	X3.TextSize = 14.000
+	X3.TextWrapped = true
+	
+	UICorner_8.CornerRadius = UDim.new(0, 15)
+	UICorner_8.Parent = X3
+	
+	MurdESP.Name = "MurdESP"
+	MurdESP.Parent = X3
+	MurdESP.AlwaysOnTop = true
+	MurdESP.Size = UDim2.new(3, 0, 2, 0)
+	MurdESP.SizeOffset = Vector2.new(-0.5, 0.5)
+	MurdESP.StudsOffset = Vector3.new(0, 3, 0)
+	
+	TextLabel_2.Parent = MurdESP
+	TextLabel_2.BackgroundTransparency = 1.000
+	TextLabel_2.Position = UDim2.new(0.5, 0, 0.100000001, 0)
+	TextLabel_2.Size = UDim2.new(1, 0, 1, 0)
+	TextLabel_2.Font = Enum.Font.ArialBold
+	TextLabel_2.Text = "Murderer"
+	TextLabel_2.TextColor3 = Color3.fromRGB(255, 0, 0)
+	TextLabel_2.TextScaled = true
+	TextLabel_2.TextStrokeTransparency = 0.000
+	TextLabel_2.TextWrapped = true
+	
+	Hold1.Name = "Hold1"
+	Hold1.Parent = DB
+	Hold1.Active = true
+	Hold1.BackgroundColor3 = Color3.fromRGB(30, 47, 53)
+	Hold1.Draggable = true
+	Hold1.Position = UDim2.new(0.798836172, -404, 0.190476194, 43)
+	Hold1.Size = UDim2.new(0, 513, 0, 215)
+	Hold1.Visible = false
+	
+	UICorner_9.CornerRadius = UDim.new(0, 15)
+	UICorner_9.Parent = Hold1
+	
+	TextButton.Parent = Hold1
+	TextButton.BackgroundColor3 = Color3.fromRGB(0, 0, 255)
+	TextButton.Position = UDim2.new(0.15399611, 0, 0.234038055, 0)
+	TextButton.Size = UDim2.new(0, 50, 0, 50)
+	TextButton.Font = Enum.Font.SciFi
+	TextButton.Text = "BLUE"
+	TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextButton.TextScaled = true
+	TextButton.TextSize = 14.000
+	TextButton.TextWrapped = true
+	
+	UICorner_10.CornerRadius = UDim.new(0, 15)
+	UICorner_10.Parent = TextButton
+	
+	TextButton_2.Parent = Hold1
+	TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 0)
+	TextButton_2.Position = UDim2.new(0.407407433, 0, 0.234038055, 0)
+	TextButton_2.Size = UDim2.new(0, 50, 0, 50)
+	TextButton_2.Font = Enum.Font.SciFi
+	TextButton_2.Text = "YELLOW"
+	TextButton_2.TextColor3 = Color3.fromRGB(30, 47, 53)
+	TextButton_2.TextScaled = true
+	TextButton_2.TextSize = 14.000
+	TextButton_2.TextWrapped = true
+	
+	UICorner_11.CornerRadius = UDim.new(0, 15)
+	UICorner_11.Parent = TextButton_2
+	
+	TextButton_3.Parent = Hold1
+	TextButton_3.BackgroundColor3 = Color3.fromRGB(85, 255, 0)
+	TextButton_3.Position = UDim2.new(0.278752446, 0, 0.234038055, 0)
+	TextButton_3.Size = UDim2.new(0, 50, 0, 50)
+	TextButton_3.Font = Enum.Font.SciFi
+	TextButton_3.Text = "GREEN"
+	TextButton_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextButton_3.TextScaled = true
+	TextButton_3.TextSize = 14.000
+	TextButton_3.TextWrapped = true
+	
+	UICorner_12.CornerRadius = UDim.new(0, 15)
+	UICorner_12.Parent = TextButton_3
+	
+	TextButton_4.Parent = Hold1
+	TextButton_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextButton_4.Position = UDim2.new(0.54191035, 0, 0.232417181, 0)
+	TextButton_4.Size = UDim2.new(0, 219, 0, 50)
+	TextButton_4.Font = Enum.Font.SciFi
+	TextButton_4.Text = "LOBBY"
+	TextButton_4.TextColor3 = Color3.fromRGB(79, 79, 79)
+	TextButton_4.TextScaled = true
+	TextButton_4.TextSize = 14.000
+	TextButton_4.TextWrapped = true
+	
+	UICorner_13.CornerRadius = UDim.new(0, 15)
+	UICorner_13.Parent = TextButton_4
+	
+	NameHold_2.Name = "NameHold"
+	NameHold_2.Parent = Hold1
+	NameHold_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold_2.BackgroundTransparency = 0.950
+	NameHold_2.Size = UDim2.new(0, 512, 0, 37)
+	NameHold_2.Font = Enum.Font.SciFi
+	NameHold_2.Text = "Towers"
+	NameHold_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+	NameHold_2.TextScaled = true
+	NameHold_2.TextSize = 14.000
+	NameHold_2.TextWrapped = true
+	
+	UICorner_14.CornerRadius = UDim.new(0, 15)
+	UICorner_14.Parent = NameHold_2
+	
+	TextLabel_3.Parent = Hold1
+	TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel_3.BackgroundTransparency = 1.000
+	TextLabel_3.Position = UDim2.new(0, 0, 0.778717399, 0)
+	TextLabel_3.Size = UDim2.new(0, 363, 0, 50)
+	TextLabel_3.Font = Enum.Font.SciFi
+	TextLabel_3.Text = "Credits: Owner and Creator: Bisu"
+	TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel_3.TextSize = 14.000
+	
+	TextButton_5.Parent = Hold1
+	TextButton_5.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	TextButton_5.Position = UDim2.new(0.0311890841, 0, 0.234038055, 0)
+	TextButton_5.Size = UDim2.new(0, 50, 0, 50)
+	TextButton_5.Font = Enum.Font.SciFi
+	TextButton_5.Text = "RED"
+	TextButton_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextButton_5.TextScaled = true
+	TextButton_5.TextSize = 14.000
+	TextButton_5.TextWrapped = true
+	
+	UICorner_15.CornerRadius = UDim.new(0, 15)
+	UICorner_15.Parent = TextButton_5
+	
+	TextButton_6.Parent = Hold1
+	TextButton_6.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	TextButton_6.Position = UDim2.new(0.900584936, 0, -0.00317127327, 0)
+	TextButton_6.Size = UDim2.new(0, 50, 0, 43)
+	TextButton_6.Font = Enum.Font.SciFi
+	TextButton_6.Text = "X"
+	TextButton_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextButton_6.TextScaled = true
+	TextButton_6.TextSize = 14.000
+	TextButton_6.TextWrapped = true
+	
+	UICorner_16.CornerRadius = UDim.new(0, 15)
+	UICorner_16.Parent = TextButton_6
+	
+	-- Scripts:
+	
+	local function THNEI_fake_script() -- WS.LocalScript 
+		local script = Instance.new('LocalScript', WS)
+	
+		local function speed()
+			local h = game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+			h.WalkSpeed = script.Parent.Parent.WSS.Text
+		end
+	
+		script.Parent.Activated:Connect(speed)
+	end
+	coroutine.wrap(THNEI_fake_script)()
+	local function WBIK_fake_script() -- JP.LocalScript 
+		local script = Instance.new('LocalScript', JP)
+	
+		local function speed()
+			local h = game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+			h.JumpPower = script.Parent.Parent.JPP.Text
+		end
+	
+		script.Parent.Activated:Connect(speed)
+	end
+	coroutine.wrap(WBIK_fake_script)()
+	local function GKAMO_fake_script() -- BUT.LocalScript 
+		local script = Instance.new('LocalScript', BUT)
+	
+		local function tp()
+			script.Parent.Parent.Parent.Hold1.Visible = true
+		end
+	
+		script.Parent.Activated:Connect(tp)
+	end
+	coroutine.wrap(GKAMO_fake_script)()
+	local function LBBFGQ_fake_script() -- X3.LocalScript 
+		local script = Instance.new('LocalScript', X3)
+	
+		script.Parent.MouseButton1Click:Connect(function()
+			mouse = game.Players.LocalPlayer:GetMouse()
+			tool = Instance.new("Tool")
+			tool.RequiresHandle = false
+			tool.Name = "Click Teleport"
+			tool.Activated:connect(function()
+				local pos = mouse.Hit+Vector3.new(0,2.5,0)
+				pos = CFrame.new(pos.X,pos.Y,pos.Z)
+				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
+			end)
+			tool.Parent = game.Players.LocalPlayer.Backpack
+		end)
+	end
+	coroutine.wrap(LBBFGQ_fake_script)()
+	local function EZPA_fake_script() -- TextButton.LocalScript 
+		local script = Instance.new('LocalScript', TextButton)
+	
+		local function get()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.Doomspires.BLUE.Spawns.SpawnLocation.CFrame
+		end
+	
+		script.Parent.Activated:Connect(get)
+	end
+	coroutine.wrap(EZPA_fake_script)()
+	local function NSMX_fake_script() -- TextButton_2.LocalScript 
+		local script = Instance.new('LocalScript', TextButton_2)
+	
+		local function get()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.Doomspires.YELLOW.Spawns.SpawnLocation.CFrame
+		end
+	
+		script.Parent.Activated:Connect(get)
+	end
+	coroutine.wrap(NSMX_fake_script)()
+	local function IJAV_fake_script() -- TextButton_3.LocalScript 
+		local script = Instance.new('LocalScript', TextButton_3)
+	
+		local function get()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.Doomspires.GREEN.Spawns.SpawnLocation.CFrame
+		end
+	
+		script.Parent.Activated:Connect(get)
+	end
+	coroutine.wrap(IJAV_fake_script)()
+	local function SUMY_fake_script() -- TextButton_4.LocalScript 
+		local script = Instance.new('LocalScript', TextButton_4)
+	
+		local function get()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.Lobby["Spawns/Teleports"].Pillar.SpawnLocation.CFrame
+		end
+	
+		script.Parent.Activated:Connect(get)
+	end
+	coroutine.wrap(SUMY_fake_script)()
+	local function CASPGVF_fake_script() -- TextButton_5.LocalScript 
+		local script = Instance.new('LocalScript', TextButton_5)
+	
+		local function get()
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game.Workspace.Doomspires.RED.Spawns.SpawnLocation.CFrame
+		end
+	
+		script.Parent.Activated:Connect(get)
+	end
+	coroutine.wrap(CASPGVF_fake_script)()
+	local function HKWIC_fake_script() -- TextButton_6.LocalScript 
+		local script = Instance.new('LocalScript', TextButton_6)
+	
+		local function get()
+			script.Parent.Parent.Visible = false
+		end
+	
+		script.Parent.Activated:Connect(get)
+	end
+	coroutine.wrap(HKWIC_fake_script)()
+		
+	end
+	
+	script.Parent.Activated:Connect(g)
+end
+coroutine.wrap(BQIR_fake_script)()
+local function ZKLXP_fake_script() -- TextButton.LocalScript 
+	local script = Instance.new('LocalScript', TextButton)
+
+	local function get()
+		script.Parent.Parent.Visible = false
+		script.Parent.Parent.Parent.Boom.Visible = true
+	end
+	
+	script.Parent.Activated:Connect(get)
+end
+coroutine.wrap(ZKLXP_fake_script)()
+local function HNLRGF_fake_script() -- Boom.LocalScript 
+	local script = Instance.new('LocalScript', Boom)
+
+	local function get()
+		script.Parent.Parent.hold.Visible = true
+		script.Parent.Parent.Parent.Boom.Visible = false
+	end
+	
+	script.Parent.Activated:Connect(get)
+end
+coroutine.wrap(HNLRGF_fake_script)()
